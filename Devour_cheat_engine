@@ -1,0 +1,330 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=9018048
+
+
+
+ALittlePatate/DevourClient
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+Sign In Required
+
+
+Please sign in to use Codespaces.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching Xcode
+
+
+If nothing happens, download Xcode and try again.
+
+
+Launching Visual Studio Code
+
+
+Your codespace will open once ready.
+
+
+There was a problem preparing your codespace, please try again.
+
+
+Latest commit
+
+
+Git stats
+
+
+Files
+
+
+Failed to load latest commit information.
+
+
+README.md 
+
+
+Very based cheat for the game Devour.
+
+
+Well at this point i don't really know, i think there is some sort of native Unity anti cheat template but it doesn't seem active. You're fine, no anti cheat !
+
+
+Everything about spoofing ehre (steam name, server name, level. ) will persist if you don't uncheck it (it will be reseted when you'll restart the game obv).
+
+
+
+  
+An IMGUI menu thanks to UnityEngine
+
+  
+Fully compatible with the new IL2CPP version of the game
+
+  
+Detects if you're in game (with bad code lol), so no chances of crashing on main menu by activating features
+
+  
+Detects the map you are playing on (useful for the instant win)
+
+  
+Big Flashlight (allows your flashlight to light a lot more)
+
+  
+Flashlight color customization (with a home made color picker)
+
+  
+Unlimited UV light (thanks to @jadis0x)
+
+  
+A chat spammer for Lobby and InGame chat (i couldn't do a text entry because of the limitations of Il2CppAssemblyUnhollower)
+
+  
+Achievements unlocker (couldn't do all of them, my code is crashing for some reasons at some point, i may fix it, for now it's commented out)
+
+  
+Doors unlocker (should work fine, though it doesn't seem to work sometimes)
+
+  
+Keys teleporter
+
+  
+LV spoofer
+
+  
+Steam name spoofer (sets it to "patate", again no input text :/)
+
+  
+Server name spoofer (sets it to "patate on top !", again no input text :/)
+
+  
+Fly
+
+  
+Unlock all, including flashlights, perks, outfits. Active by default, can't be turned off, no persistance.
+
+  
+Instant Win (allows you to win instantaniously on any map, works in singleplayer, but not as a client. May be working as host)
+
+  
+Random Sound (make your character play a random acting sound)
+
+  
+Always carrying a medkit
+
+  
+Change your exp at the end of the game, changing it is permanant !
+
+  
+Player ESP (with a home made color picker)
+
+  
+Player skeleton ESP
+
+  
+Player snaplines (with a home made color picker)
+
+  
+Azazel ESP (with a home made color picker)
+
+  
+Azazel Skeleton ESP
+
+  
+Azazel snapline (with a home made color picker)
+
+  
+Item ESP
+
+  
+Demon ESP
+
+  
+Goat/Rat ESP
+
+  
+TP all the items to your position ! (thanks to @jadis0x)
+
+  
+Spawn any item/entity to your position
+
+  
+Walk in the lobby
+
+  
+Change the player's speed
+
+  
+Fullbright
+
+  
+Create a lobby with no player limit
+
+
+
+
+For my French fellas out there, 1tap2times made a French video tutorial for the installation of the Mod : link 
+For my German friends, KiwiJuice02 made a german video tutorial right here : link 
+In order to get all of this working you need to generate the DevourClient.dll file by building the source code.
+
+
+
+  
+Install .NET 6 SDK and runtime.
+
+  
+Build the cheat from source.
+
+  
+Put the DevourClient.dll file located in DevourClient\bin\Release\net6.0 inside C:\Program Files (x86)\Steam\steamapps\common\Devour\Mods folder.
+
+  
+Start the game, now you have successfully installed DevourClient. Use INSERT to open the menu
+
+
+
+
+
+  
+Delete the folders MelonLoader , Mods , Plugins , UserData , and the file version.dll from C:\Program Files (x86)\Steam\steamapps\common\Devour
+
+
+
+
+
+  
+Clone the repository (or Code -> Download Zip)
+
+  
+Install MelonLoader V0.6.0 (go to Settings -> tick "Show ALPHA Pre-Releases") to Devour.
+
+  
+Start your game. A cmd should appear, don't close it, MelonLoader is installing and decompiling Devour's game assemblies.
+
+  
+Wait for the process to finish, once it's done close the game.
+
+  
+Open the solution file (DevourClient.sln) in Visual Studio
+
+  
+Go to : Project --> Add a reference --> Browse --> Click on the browse button in the down right corner of the window.
+
+  
+Add those files :
+
+
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\net6\MelonLoader.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\net6\0Harmony.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\net6\Il2CppInterop.Runtime.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\Assembly-CSharp.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\Il2CppOpsive.UltimateCharacterController.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\Il2CppBehaviorDesigner.Runtime.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\Il2Cppbolt.user.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\Il2Cppbolt.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\Il2Cppmscorlib.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\UnityEngine.IMGUIModule.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\UnityEngine.InputLegacyModule.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\UnityEngine.HotReloadModule.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\UnityEngine.UI.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\UnityEngine.UIModule.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\UnityEngine.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\UnityEngine.CoreModule.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\UnityEngine.InputModule.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\Il2Cppudpkit.common.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\Il2Cppudpkit.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\Il2Cppudpkit.platform.photon.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\UnityEngine.AnimationModule.dll
+
+  
+C:\Program Files (x86)\Steam\steamapps\common\Devour\MelonLoader\Il2CppAssemblies\UnityEngine.PhysicsModule.dll
+
+
+
+  
+Build the solutions in Release | Any CPU
+
+
+
+
+You can add me on discord at patate#1252 or on the discord server
+
+
+For teaching me the basics :
+
+
+For teaching me about the MelonLoader mods API and Il2Cpp specifications :
+
+
+For teaching me about the UnityEngine API :
+
+
+For decompiling and looking in the source code of the game :
+
+
+For teaching me the basics about Devour game hacking, and i pasted the Key TP hack and the non working part of the Achievements Unlocker from it :
+
+
+Game's last update before il2cpp :
+
+
+Open an issue or make a pull request, i'll be glad to improve my project with you !
