@@ -1,0 +1,167 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=2934514
+
+
+
+realm-royale
+
+
+Here are 4 public repositories matching this topic.
+
+
+ luissilva1044894 / hirez-api-docs 
+
+
+🚧 Unofficial Hi-Rez Studios API documentation (and assets where possible) for Paladins, Realm Royale, and Smite.
+
+
+ luissilva1044894 / Pyrez 
+
+
+(ON REWRITE) An easy to use (a)sync wrapper for Hi-Rez Studios API (Paladins, Realm Royale, and Smite), written in Python. 🐍
+
+
+ stachu540 / HiRezAPI 
+
+
+Reactive Java API Wrapper for Hi-Rez Studios games. (looking for maintainer)
+
+
+ AidanJohnston / hirezapi 
+
+
+Python wrapper for the Hi-Rez Studios API (Smite, Paladins, Realm Royal, Divine Knockout) -- Currently WIP
+
+
+Improve this page
+
+
+Add a description, image, and links to the realm-royale topic page so that developers can more easily learn about it.
+
+
+Add this topic to your repo
+
+
+To associate your repository with the realm-royale topic, visit your repo's landing page and select "manage topics."
+
+
+Cheats and Secrets
+
+
+IGN's Realm Royale cheats and secrets guide gives you the inside scoop into every cheat, hidden code, helpful glitch, exploit, and secret in Realm Royale.
+
+
+This cheats and secrets page is a stub. Make it more useful by clicking the "Edit" button and adding your own text, pictures, and videos!
+
+
+Cheats and Secrets Sections
+
+
+Up Next: Classes
+
+
+Top Guide Sections
+
+
+Was this guide helpful?
+
+
+In This Wiki Guide
+
+
+In Hogwarts Legacy, there are many types of locks that will block your path as you seek to explore the depths of Hogwarts, as well as access to certain buildings in chests also found in Hogsmeade Village and the Highlands. As you learn the Alohomora unlocking spell from the groundskeeper, Mr. Moon, you’ll find out about Demiguise Statues - small statues of creatures holding glowing moons that can be obtained only when they shimmer at night.By finding these Demiguise Statues, Mr. Moon will teach you more powerful versions of Alohomora to unlock level 2 and level 3 locks. So, to help you upgrade your lockpicking skills, this video details the locations for all Demiguise Statues you can find across all the regions in Hogwarts Legacy.
+
+
+allan-pires/realm-royale-cli
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+Sign In Required
+
+
+Please sign in to use Codespaces.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching Xcode
+
+
+If nothing happens, download Xcode and try again.
+
+
+Launching Visual Studio Code
+
+
+Your codespace will open once ready.
+
+
+There was a problem preparing your codespace, please try again.
+
+
+Latest commit
+
+
+Git stats
+
+
+Files
+
+
+Failed to load latest commit information.
+
+
+README.md 
+
+
+This is a simple CLI tool for fetching data from the Realm Royale API.
+
+
+Clone the repo and run bundle install:
+
+
+Create a new .env based on the .env.example :
+
+
+REALM_API_URL=https://sampleapiurl.com REALM_API_DEV_ID=1234 REALM_API_KEY=ABC1234DEF1234G1234H1234 VALID_STEAM_IDS=
+
+
+For more information on how to obtain a API KEY and a DEV ID please see: https://github.com/apugh/realm-api-docs/wiki
+
+
+$ ruby main.rb -p sample_username
+
+
+You should see a response like this:
+
+
+>79, :wins=>17, :losses=>62, :kills_player=>142, :deaths=>94, :average_placement=>12>
+
+
+Please note that you need Ruby installed to run this.
+
+
+Usage: main.rb [options] -h, --help Prints this help -p, --player Show player info -a, --all-players Show all players info -l, --list List valid players
+
+
+About
+
+
+Simple CLI tool for Realm Royale
