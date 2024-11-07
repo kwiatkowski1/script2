@@ -1,0 +1,142 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=9865327
+
+
+
+What is a server side?
+
+
+I've heard people talk about server sides but what is the difference between a normal executor and a server side?
+
+
+This is all because of FE (Filtering Enabled), and what that does is make it so that the following happens:
+
+
+Let's assume there are two clients (players) in a game, Client A and Client B.
+
+
+Client A has an executor, and changes the color of a brick. Filtering Enabled checks if Client A has "network ownership" of that brick.
+-If they do, then the changes are "replicated" to the server, and Client B will see the brick change color.
+-If they don't, then nothing happens. Only Client A will see the brick change color.
+
+
+By default, every client has network ownership of their own character, and only the server can change an object's network ownership. This is useful because if the player's internet slows down, then the objects they have network ownership of will still continue to function normally and won't look laggy.
+
+
+So, what's a server-side? Because, in a game, the server can do anything, and any changes it makes are replicated to all clients in the game, if you manage to get a backdoor in a serverscript, you could do a ton more stuff, like unanchor the whole map.
+
+
+But, backdoors can be hard to get into any game with a decent player count, so, it's not really worth your time.
+
+
+serverside
+
+
+Here are 92 public repositories matching this topic.
+
+
+ cstate / cstate 
+
+
+🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
+
+
+ laravel-enso / tables 
+
+
+Bulma themed, VueJS powered Datatable with server-side loading and JSON template setup
+
+
+ fingers10 / JqueryDataTablesServerSideDemo 
+
+
+Jquery DataTables with Asp.Net Core server side multi column sorting and searching Demo Project.
+
+
+ Fennec-Framework / fennec 
+
+
+Fennec is a multi-threaded, robust Dart Server-Side Framework.
+
+
+ jacktuck / node-chartjs 
+
+
+Chart.js on the server in Node.js
+
+
+ azeemhassni / envalid 
+
+
+Envalid is a framework agnostic and fluent server side form validation package for PHP
+
+
+ VladimirDimov / jQuery-Datatables-Server-Side-Processing 
+
+
+Plugin for server side processing for jQuery datatables.
+
+
+ jacklinke / htmx-talk-2021 
+
+
+Code examples and slides from my 2021 talk Server-Side is Dead! Long Live Server-Side (+ HTMX), presented at DjangoCon and Code Code Code
+
+
+ cstate / example 
+
+
+👀 Easy deploy to Netlify. Click link to try it out. This is an example of how cState should look and function like from a production/user standpoint, this here has exampleSite with the proper hieracracy.
+
+
+ rizkhal / inertable 
+
+
+🍟 A headless datatable with inertiajs
+
+
+ CamperSamu / WhereAreYouFrom 
+
+
+A serverside Fabric mod that adds the corresponding mod name to items in the lore
+
+
+ NikSavchenk0 / Xarus-SS 
+
+
+Xarus SS - this is free server side executor.
+
+
+ MichaelFroelich / FAP.React 
+
+
+Extension of the FAP.Page class (ReactivePage) for server side rendering with ReactJS.NET. This is an alternative network solution for ReactJS users, just assign a get function to return a JSON string
+
+
+ GiullianoRossi1987 / lpgp-new 
+
+
+The same LPGP project, but rebooted with a new structure and features
+
+
+ Caupz / GTAV-MPFramework 
+
+
+This resource makes FiveM client-server development easier & more structured with helpful callbacks.
+
+
+ Dhruv-Rayat1 / API-TEST 
+
+
+This will be a Python rest web API which will return some user Data to a website. It will also be able to Post Data to a SQL DB
+
+
+ aframson / leafjs 
+
+
+The Abstracted Realtime & REST API Server Framework for backend applications
+
+
+ steeelydan / tsfs 
+
+
+Full Stack TypeScript Helpers
