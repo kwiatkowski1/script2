@@ -1,0 +1,78 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=5163438
+
+
+
+How to work pastebins
+
+
+go to the script's pastebin and click a button called raw in the pastebin. Once you do that you will be teleported to the same pastebin but now in a different place. After that, copy that link and go to void builder, in void builders, type h/ with the link behind (no spacing) example below. (below picture)
+
+
+others [ ]
+
+
+some scripts use require. so if you use require, it is only allowed at void builder 2
+
+
+using require [ ]
+
+
+Require pastebins are quite different, when you are in the pastebin, click CLONE. (OR copy the whole script and paste it in [New paste] After that type your username in the [username here] box then create the script. then copy the new script's link (the one with your username in it) and use it in void builder 2
+
+
+
+  
+For other script buildere that use require, just type your username and copy the script NOT the link. Etc. Require(10201928).("Username")
+
+  
+you can also run requires without links in void by typing c/requirehere into the command bar in the bottom left. 
+
+  
+E.g c/require(10201928).(owner.Name) (owner.Name in void builder automatically puts ur username in)
+
+
+
+
+Roblox Admin Script
+
+
+BV.velocity = ((workspace.CurrentCamera.CoordinateFrame.lookVector * (CONTROL.F + CONTROL.B)) + ((workspace.CurrentCamera.CoordinateFrame * CFrame.new(CONTROL.L + CONTROL.R, (CONTROL.F + CONTROL.B) * 0.2, 0).p) - workspace.CurrentCamera.CoordinateFrame.p)) * SPEED
+
+
+BV.velocity = ((workspace.CurrentCamera.CoordinateFrame.lookVector * (lCONTROL.F + lCONTROL.B)) + ((workspace.CurrentCamera.CoordinateFrame * CFrame.new(lCONTROL.L + lCONTROL.R, (lCONTROL.F + lCONTROL.B) * 0.2, 0).p) - workspace.CurrentCamera.CoordinateFrame.p)) * SPEED
+
+
+Notification("warning", "This command disables all remotes incase they are kick remotes, may break game.", 8)
+
+
+Notification("info", "Does not prevent serverside kicks, use "..commandPrefix.."antikick off to turn off.", 8)
+
+
+Notification("warning", "If this command does not work, make sure you type remote name/service fully correct.", 8)
+
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(v.Name.." Account Age: "..v.AccountAge.." days!", "All")
+
+
+Notification("info", "Your current position is ".. tostring(LP.Character.HumanoidRootPart.Position), 9)
+
+
+Object.CFrame = LP.Character.HumanoidRootPart.CFrame + LP.Character.HumanoidRootPart.CFrame.lookVector * args[2]
+
+
+Object.CFrame = LP.Character.HumanoidRootPart.CFrame + LP.Character.HumanoidRootPart.CFrame.lookVector * 3
+
+
+Info.Text = espPlayer.Name.." (".. math.floor((LP.Character.HumanoidRootPart.Position - espPlayer.Character.HumanoidRootPart.Position).magnitude)..")"
+
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("You rolled a dice for ".. tostring(math.random(1, 6)), "All")
+
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Picking random number between "..args[1].." and "..args[2]..". The number is ".. tostring(math.random(args[1], args[2])), "All")
+
+
+if a:IsA("Tool") and string.sub(a.Name, 1, 5) == "saved" and string.lower(string.sub(a.Name, 7)) == string.lower(tostring(args[1])) then
+
+
+if x:IsA'Sound' then x.Playing = true x.CharacterSoundEvent:FireServer(true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true) end
