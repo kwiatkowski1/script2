@@ -1,0 +1,907 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=9461480
+
+
+
+Pcsx2 compatability
+
+
+11-16-2017, 10:14 AM (This post was last modified: 11-04-2021, 04:38 AM by pandubz. Edit Reason: Updating games list )
+
+
+The Situation 
+For anyone unaware, PSX (aka PS1) games are bootable as of the 1.5.0 development series and into newer PCSX2 versions. You can now use your PSX games in PCSX2 and expect some kind of response.
+
+
+However, there are still some components that are incomplete, or not working fully. Issues include but are not limited to boot failures, graphics corruption, FMV corruption, missing or corrupted audio, inability to read memory cards, or unresponsive controls. So, we have an unofficial list here of what games work and what doesn't.
+
+
+The PCSX2 community does not yet officially support PSX games. Any issues you encounter may be discussed freely, however no official support channels will help you with PSX problems. ALL bug reports for PSX games will be immediately closed as invalid.
+
+
+
+  
+Only PS2 BIOSes from original fat PS2's will be able to run PSX games. Due to the IOP changes Sony made on the slims, they simply won't run PSX games in PCSX2 right now. 
+
+  
+Audio will always be pitch-shifted a half step up, due to a rather complicated problem with sample rates. Resolved as of 1.7.0-dev-324! 
+
+  
+Just about every game will have some sort of distortion and/or corruption during FMVs, due to multiple DMA and PS1 GPU problems. 
+
+  
+PSX memory cards will appear in the PS2 BIOS as Pocketstation devices. This is due to a hack that was required for some Pocketstation compatible games to detect memory cards, and is strictly a visual side-effect with no performance or compatibility issues. 
+
+
+
+  
+IOP Interpreter often fixes boot failures among other problems. Don't worry about speed, the IOP Interpreter is surprisingly quick for an interpreter and as long as your CPU is at or above PCSX2's recommended CPU rating, you should be able to run this. 
+
+  
+Use a Software renderer, instead of a Hardware renderer. If this doesn't immediately solve the issue, reboot the game with the Software renderer already selected. Again, don't worry about speed here, the amount of GPU work is minimal and should be a non-issue for PCs that meet PCSX2's CPU requirements. 
+
+  
+Sometimes a game may not format a PSX memory card correctly. Try booting to the PS2 BIOS to format memory cards instead. 
+
+  
+Eject any PS2 memory cards. 
+
+  
+Lower the EE cyclerate. Doesn't seem to have any negative consequences, this tends to just speed games up. 
+
+
+
+
+
+  
+Playable: You can get from 'new game' to 'end credits' (regardless of speed). 
+
+  
+Ingame: You can get through menus, intro cutscenes / videos, and see ingame graphics, but either due to graphical bugs, crashes, un-resolved errors, you can't play through the entire game. 
+
+  
+Menus: You can get into the menus, be it past 3D / video intro, memcard checks etc, but when starting a new game, it will lock up, crash, enter a loop etc. 
+
+  
+Intro: The game will show 2D logos, or video, but will not get into menus. This could be one screen, or 20, but won't show much. 
+
+  
+Nothing: Exactly what it says, this game crashes before showing any graphics, making any sound etc 
+
+
+
+
+
+  
+007: The World Is Not Enough [Ingame] [Gamefixes Required]
+
+
+
+  
+Ace Combat 2 [US][Ingame]
+
+  
+Ace Combat 3 [US] [Ingame] - Needs IOP Interpreter
+
+  
+Alien Resurrection [US] [Playable]
+
+  
+Alien Trilogy [US] [Playable]
+
+  
+Armored Core [US] [Ingame]
+
+
+
+  
+C12: Final Resistance [US] [Playable] - missing music 
+
+  
+Castlevania Symphony of the Night [Broken]
+
+  
+Crash Bandicoot [Ingame] - Audio problems
+
+  
+Crash Bandicoot 2 [US] [Playable]
+
+  
+Crash Bandicoot 3 [Playable]
+
+
+
+  
+Digimon World 2 [US] [Ingame]
+
+  
+Digimon World 3 [US] [Playable]
+
+
+
+  
+Final Fantasy VII [US] [Ingame]
+
+  
+Final Fantasy VIII [US] [Ingame]
+
+  
+Final Fantasy IX [US] [Broken]
+
+  
+Frogger [US] Playable 
+
+
+
+  
+Gran Turismo [Playable]
+
+
+
+  
+Hot Wheels Turbo Racing [US] [Intro]
+
+
+
+  
+Klonoa - Door to Phantomile [US] [Playable]
+
+  
+Knockout Kings [US] - Playable 
+
+
+
+  
+Legend of Dragoon [US] [Ingame]
+
+  
+Lunar Star Silver Story [US] [Playable]
+
+
+
+  
+Medal of Honor [US] [Intro]
+
+  
+Medievil [US] [Ingame]
+
+  
+Metal Gear Solid [US] [Playable] - Needs IOP Interpreter
+
+  
+Mortal Kombat 4 [Intro]
+
+  
+Mortal Kombat: Sub-Zero [US] [Ingame] 
+
+
+
+  
+Namco Museum 3 [US] [Playable] - Needs IOP Interpreter 
+
+
+
+  
+Pink Panther Pinkadelic Pursuit [Nothing]
+
+
+
+  
+Rascal [US] [Ingame] Hangs when loading level, in-game music out of sync 
+
+  
+Rayman 1 [US] [Broken] 
+
+  
+Rayman 2 [Playable] 
+
+  
+RC Helicopter [Playable]
+
+  
+Resident Evil: Director's Cut [Ingame] - Needs IOP Interpreter
+
+
+
+  
+Shockwave Assault [Ingame] - Needs IOP Interpreter
+
+  
+Silent Hill [Intro]
+
+  
+Sledstorm [US] [Playable]
+
+  
+Small Soldiers [Playable]
+
+  
+Soul Blade [US] [Menus]
+
+  
+Spiderman [Playable]
+
+  
+Spyro The Dragon [US] [Playable] - Needs IOP Interpreter
+
+  
+Spyro 2: Ripto's Rage! [US] [Playable] 
+
+  
+Spyro 2: Ripto's Rage! [JP] [Intro]
+
+  
+Spyro 3: Year of the Dragon [US] [Ingame] - Needs IOP Interpreter
+
+  
+Star Wars Rebel Assault 2 [US] [Menus]
+
+  
+Suikoden [Playable]
+
+  
+Syphon Filter [US] [Broken] 
+
+
+
+  
+Tekken 2 [Broken]
+
+  
+Titan War [Intro]
+
+  
+Tomb Raider [Menus]
+
+  
+Tomb Raider 2 [Menus]
+
+  
+Tomb Raider 3 [Ingame]
+
+  
+Tomb Raider 4 [Playable]
+
+  
+Tomb Raider 5 [Playable]
+
+  
+Tony Hawk's Pro Skater 2 [Ingame]
+
+  
+Toy Story 2 [Ingame] - Needs IOP Interpreter
+
+  
+Twisted Metal 2 [Playable]
+
+
+
+  
+Wipeout [US] [Ingame] 
+
+  
+Wipeout XL [US] [Ingame] 
+
+
+
+  
+Xenogears [Nothing]
+
+
+
+  
+Yu-Gi-Oh! Forbidden Memories [Ingame] - Needs IOP Interpreter
+
+
+
+
+Oh yeah Red Pandas are cool too.
+
+
+Main Page
+
+
+Welcome to the Wiki!
+The PCSX2 Wiki is a collaborative website about PCSX2 (a PlayStation 2 emulator for the PC) that anyone can edit!
+
+
+5,122 articles since September 17, 2009
+
+
+ 
+This wiki is intended as the source of any kind of information about the PCSX2 emulator as well as the games it runs. This information can be easily updated by any PCSX2 user who wishes to contribute to this site. The main purpose of the wiki is to keep track of the playability of games and provide users with tips on how to best configure PCSX2.
+
+
+If anyone wishes to help improve the wiki (like adding information regarding new developments in the progress of the PCSX2 emulator or updating game information) you are more than welcome! We encourage you to contribute while you're viewing what's new here. Find the page for a game you've played recently - if it doesn't exist, create it; if it's a stub, expand it; if it's outdated, update it! Every contribution no matter how large or small will help this wiki. Do not be afraid to make edits - you cannot break anything! Wikis are unbreakable but useless without your support. Please also read the following information on how to contribute to this wiki.  
+
+
+Category : Playable games
+
+
+A list of games that can be finished from start to finish without any major bugs or crashes that significantly hinder the playing experience. 
+To browse all games listed in this wiki please use this link.
+
+
+
+  
+Software rendering only games
+
+  
+Games with widescreen support
+
+  
+Games with progressive support for NTSC
+
+  
+GPU intensive games
+
+  
+CPU intensive games
+
+  
+Games that scale well in HD
+
+  
+Perfectly emulated games
+
+
+
+
+Contents
+
+
+Pages in category "Playable games"
+
+
+The following 200 pages are in this category, out of 2,485 total.
+
+
+0
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+7
+
+
+9
+
+
+A
+
+
+
+  
+A-Train 6
+
+  
+A.C.E.: Another Century's Episode
+
+  
+A.C.E.: Another Century's Episode 2
+
+  
+A.C.E.: Another Century's Episode 3: The Final
+
+  
+Aa Megami-sama
+
+  
+Abarenbou Princess
+
+  
+AC/DC Live: Rock Band Track Pack
+
+  
+Ace Combat 04: Shattered Skies
+
+  
+Ace Combat 5: The Unsung War
+
+  
+Ace Combat Zero: The Belkan War
+
+  
+Ace Lightning
+
+  
+Aces of War
+
+  
+Action Girlz Racing
+
+  
+Action Man ATOM: Alpha Teens on Machines
+
+  
+Activision Anthology
+
+  
+Adiboo and the Energy Thieves
+
+  
+ADK Tamashii
+
+  
+Adventure of Tokyo Disney Sea
+
+  
+Aeon Flux
+
+  
+Aero Elite: Combat Academy
+
+  
+Aerobics Revolution
+
+  
+AFL Live 2003
+
+  
+AFL Live 2004
+
+  
+AFL Live Premiership Edition
+
+  
+AFL Premiership 2005: The Official Game of the AFL Premiership
+
+  
+AFL Premiership 2006
+
+  
+AFL Premiership 2007
+
+  
+After. Wasureemu Kizuna
+
+  
+Agassi Tennis Generation
+
+  
+Age of Empires II: The Age of Kings
+
+  
+Agent Hugo
+
+  
+Agent Hugo: Hula Holiday
+
+  
+Agent Hugo: Lemoon Twist
+
+  
+Agent Hugo: Roborumble
+
+  
+Aggressive Inline
+
+  
+AI Igo 2003
+
+  
+AI Mahjong 2003
+
+  
+AI Shogi 2003
+
+  
+Ai Yori Aoshi
+
+  
+Aikagi
+
+  
+Air
+
+  
+Air Raid 3
+
+  
+Air Ranger 2: Rescue Helicopter
+
+  
+Air Ranger: Rescue Helicopter
+
+  
+AirBlade
+
+  
+Airborne Troops: Countdown to D-Day
+
+  
+AirForce Delta Strike
+
+  
+Akai Ito
+
+  
+Akane Iro ni Somaru Saka: Parallel
+
+  
+Akira Psycho Ball
+
+  
+Akudaikan
+
+  
+Akudaikan 2: Mousouden
+
+  
+Akudaikan 3
+
+  
+Alan Hansen's Sports Challenge
+
+  
+Alarm for Cobra 11
+
+  
+Alarm for Cobra 11: Hot Pursuit
+
+  
+Alex Ferguson's Player Manager 2001
+
+  
+Alfa Romeo Racing Italiano
+
+  
+Alias
+
+  
+Alien Hominid
+
+  
+Aliens in the Attic
+
+  
+Aliens Versus Predator: Extinction
+
+  
+All Star Pro-Wrestling
+
+  
+All Star Pro-Wrestling II
+
+  
+All Star Pro-Wrestling III
+
+  
+All-Star Baseball 2002
+
+  
+All-Star Baseball 2003
+
+  
+All-Star Baseball 2004
+
+  
+All-Star Baseball 2005
+
+  
+Alone in the Dark
+
+  
+Alone in the Dark: The New Nightmare
+
+  
+Alpine Racer 3
+
+  
+Alpine Ski Racing 2007
+
+  
+Alpine Skiing 2005
+
+  
+Alter Echo
+
+  
+Alvin and the Chipmunks
+
+  
+Amagami
+
+  
+Amagoushi no Yakata
+
+  
+America Oudan Ultra-Quiz
+
+  
+American Arcade
+
+  
+American Chopper
+
+  
+American Chopper 2: Full Throttle
+
+  
+American Idol
+
+  
+AMF Xtreme Bowling
+
+  
+Amplitude
+
+  
+An American Tail
+
+  
+And 1 Streetball
+
+  
+Angel Profile
+
+  
+Angel Wish: Kimi no Egao ni Chu!
+
+  
+Angel's Feather
+
+  
+Angelic Concert
+
+  
+Angelique Etoile
+
+  
+Angelique Trois
+
+  
+Angelique Trois: Aizouhen
+
+  
+Animal Soccer World
+
+  
+Animaniacs: The Great Edgar Hunt
+
+  
+Anime Eikaiwa: 15 Shounen Hyouryuuhen
+
+  
+Anime Eikaiwa: Tondemo Nezumi Daikatsuyaku
+
+  
+Anime Eikaiwa: Totoi
+
+  
+Antz Extreme Racing
+
+  
+Anubis II
+
+  
+Aoi no Mamade.
+
+  
+Aoi Sora no Neosphere: Nanoca Flanka Hatsumei Koubouki 2
+
+  
+Aoi Umi no Tristia: Nanoca Flanka Hatsumei Koubouki
+
+  
+Aoishiro
+
+  
+Ape Escape 2
+
+  
+Ape Escape 3
+
+  
+Ape Escape: Million Monkeys
+
+  
+Ape Escape: Pumped & Primed
+
+  
+Apocripha/0
+
+  
+Appleseed EX
+
+  
+Aqua Aqua
+
+  
+Aqua Kids
+
+  
+Aqua Teen Hunger Force Zombie Ninja Pro-Am
+
+  
+Ar tonelico II: Melody of Metafalica
+
+  
+Ar tonelico: Melody of Elemia
+
+  
+Arabians Lost
+
+  
+Arc the Lad: End of Darkness
+
+  
+Arc the Lad: Twilight of the Spirits
+
+  
+Arcade Action: 30 Games
+
+  
+Arcade Classics Volume 1
+
+  
+Arcade USA
+
+  
+Arcana Heart
+
+  
+Arcobaleno!
+
+  
+Arctic Thunder
+
+  
+Are You Smarter Than a 5th Grader? Make the Grade
+
+  
+Area 51
+
+  
+Arena Football
+
+  
+Arena Football: Road to Glory
+
+  
+Aria: The Natural ~Tooi Yume no Mirage~
+
+  
+Aria: The Origination ~Aoi Hoshi no El Cielo~
+
+  
+Armen Noir
+
+  
+Armored Core 2
+
+  
+Armored Core 2: Another Age
+
+  
+Armored Core 3
+
+  
+Armored Core: Formula Front
+
+  
+Armored Core: Last Raven
+
+  
+Armored Core: Nexus
+
+  
+Armored Core: Nine Breaker
+
+  
+Army Men: Air Attack 2
+
+  
+Army Men: Green Rogue
+
+  
+Army Men: Major Malfunction
+
+  
+Army Men: RTS
+
+  
+Army Men: Sarge's Heroes 2
+
+  
+Army Men: Sarge's War
+
+  
+Army Men: Soldiers of Misfortune
+
+  
+Art of Fighting Anthology
+
+  
+Arthur and the Invisibles
+
+  
+Ashita no Joe 2: The Anime Super Remix
+
+  
+Ashita no Joe Touchi: Typing Namida Hashi
+
+  
+Ashita no Joe: Masshiro ni Moe Tsukiro!
+
+  
+Asobi ni Iku yo! Chikyuu Pinchi no Konyaku Sengen
+
+  
+Assault Suits Valken
+
+  
+Asterix & Obelix XXL 2: Mission: Las Vegum
+
+  
+Asterix & Obelix: Kick Buttix
+
+  
+Asterix at the Olympic Games
+
+  
+Astro Boy
+
+  
+Astro Boy: The Video Game
+
+  
+Atari Anthology
+
+  
+Atelier Iris 2: The Azoth of Destiny
+
+  
+Atelier Iris 3: Grand Phantasm
+
+  
+Atelier Iris: Eternal Mana
+
+  
+Atelier Marie + Elie
+
+  
+Athens 2004
+
+
+
+
+Navigation menu
+
+
+Search
+
+
+
+  
+This page was last edited on 7 January 2015, at 17:04.
+
+  
+Content is available under Creative Commons Attribution Non-Commercial Share Alike unless otherwise noted.
+
+
+
+  
+Privacy policy
+
+  
+About PCSX2 Wiki
+
+  
+Disclaimers
+
+  
+Mobile view
+
