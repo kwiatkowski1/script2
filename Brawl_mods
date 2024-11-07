@@ -1,0 +1,542 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=644135
+
+
+
+squidgy617/BrawlInstallerPlugins
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+Sign In Required
+
+
+Please sign in to use Codespaces.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching Xcode
+
+
+If nothing happens, download Xcode and try again.
+
+
+Launching Visual Studio Code
+
+
+Your codespace will open once ready.
+
+
+There was a problem preparing your codespace, please try again.
+
+
+Latest commit
+
+
+Git stats
+
+
+Files
+
+
+Failed to load latest commit information.
+
+
+README.md 
+
+
+A BrawlCrate plugin suite for easy installation of Brawl mods into BrawlEX builds. Currently supports automatic installation of entire characters, including their cosmetics, as long as they are packaged in a .zip file with the correct structure.
+
+
+Currently this plugin performs all the necessary installation to get an EX character fully playable in all modes, including Subspace Emissary, so long as your build supports Subspace Emissary Ex.
+
+
+If you find any bugs or issues with the plugins, please check the FAQ below first. If the FAQ does not help, please submit them as an issue here on GitHub or message me about it directly on discord @ Squidgy#9561
+
+
+
+  
+Install or uninstall fully playable characters and costumes into a build of Super Smash Bros. Brawl in just a few clicks.
+
+  
+Add, edit, and manage stages and music for your build using intuitive forms.
+
+  
+Extract characters from a build as fully installable packages - either individually or en masse.
+
+  
+Installed characters playable in all modes, including support for Subspace Emissary Ex.
+
+  
+Automatic detection and handling of conflicts on fighter IDs, names, soundbanks, Effect.pac IDs, and more.
+
+  
+Numerous settings to support many different kinds of builds.
+
+  
+Tools to easily list IDs already in use in a build.
+
+  
+Automatic backup and restore features in case of unintended results.
+
+  
+Logging features to help diagnose issues when they are encountered.
+
+  
+Support for Ex modules and several non-Ex modules (Lucario, Marth, Sonic, and Pit's patched PM module).
+
+
+
+
+
+  
+If you do not already have BrawlCrate, download and install the latest release.
+
+  
+Navigate to the latest BrawlInstaller release and download the BrawlInstaller.Tools.Setup.exe . Run this installer and follow the on-screen instructions. Only install components not already present in your build.
+
+  
+In BrawlCrate, navigate to Tools > Settings > General and modify the Default Build Path to match the path you chose for the tools in step 2.
+
+  
+In BrawlCrate, navigate to Tools > Settings > BrawlAPI and ensure the Installation Path field under Python is set to the correct path.
+
+  
+In BrawlCrate, navigate to Tools > Settings > Updater , click Manage Subscriptions , Add , and paste this link: https://github.com/squidgy617/BrawlInstallerPlugins , then hit Okay . If you set this up in BrawlCrate, the plugins will update automatically when you launch BrawlCrate.
+
+  
+Restart BrawlCrate.
+
+
+
+
+Once you have completed these steps, you are ready to begin using the BrawlInstaller plugins.
+
+
+Additionally, it's recommended to set up a git repository for your build like this template for an easy method of source control. BrawlInstaller does create automatic backups, so this is not necessary, but still recommended.
+
+
+If you would prefer to install everything used by BrawlInstaller manually, you can follow these directions.
+
+
+In order for these plugins to function correctly, you will need a few things:
+
+
+
+  
+The latest version of BrawlCrate. You should also ensure you have your build path set to your build's root folder by navigating to Tools > Settings > General and modifying the "Default Build Path" there.
+
+  
+The latest version of Python. You can download this at python.org. Also ensure your Python path is set within BrawlCrate by navigating to Tools > Settings > BrawlAPI and setting the "Installation Path" field under "Python".
+
+  
+A BrawlEx build of Super Smash Bros. Brawl. It is strongly recommended to use these plugins with a build of Project+ EX, although it should technically be able to support other BrawlEx builds as well.
+
+  
+(OPTIONAL) The latest version of QuickLava's Kirby Hat Manager. You will want to ensure this is installed in your build's root folder (should be in the same directory as the /pf/ folder). This is necessary if you want Kirby hats to function correctly on P+ EX builds. You do not need to download this when using a build such as REMIX which already comes with it. If you install this, you will also need the Microsoft Visual C++ Redistributable.
+
+  
+(OPTIONAL) The latest version of QuickLava's fork of the P+ EX code menu. You will want to ensure this is installed in your build's root folder (should be in the same directory as the /pf/ folder). This is necessary if you want your character added to the code menu. You do not need to download this when using a build such as REMIX which already comes with it. You also should not use this if your build is designed around a different code menu. If you install this, you will also need the Microsoft Visual C++ Redistributable.
+
+  
+(OPTIONAL) The latest version of QuickLava's Sawnd ID Replace Assist. This can be anywhere on your computer. This is necessary if you want to be able to change soundbank IDs in the event of a conflict.
+
+  
+(OPTIONAL) The latest version of Codes' "Porting_Tools.zip", which is linked in the official BrawlEx Guide for P+ EX. This can be anywhere on your computer. This is necessary if you want to be able to change soundbank IDs or Effect.pac IDs in the event of a conflict.
+
+  
+(OPTIONAL) The latest version of Kapedani's Subspace Emissary Ex. This can be installed over your P+Ex build's root directory. This is only necessary if you are not on the latest P+Ex version and would like to install your characters into Subspace Emissary mode. If you want additional CSS slots for SSE, you can also download a basic expanded CSS here.
+
+  
+If you're trying to use the Install Character plugin, you'll need a proper character package .zip file. You can find an example package using CaliKingz01's RockmanX PSA and Shy's cosmetics here. You can also find a variety of character packages uploaded here.
+
+
+
+
+For initial installation, you can set this repo as a subscription in BrawlCrate by navigating to Tools > Settings > Updater, clicking "Manage Subscriptions", and pasting this link: https://github.com/squidgy617/BrawlInstallerPlugins. If you set this up in BrawlCrate, the plugins will update automatically when you launch BrawlCrate. Alternatively, you can download the release manually and extract the contents to your BrawlCrate installation's "BrawlAPI" folder.
+
+
+The plugins create backups of your files during execution, however, I cannot guarantee you will not run into issues, especially if you configure your settings incorrectly. If you want an extra safety net, I recommend setting up a git repository for your build like this template for an easy method of source control. With the automatic backup functionality, this is not really necessary, but still a good idea.
+
+
+Character Packages available here.
+
+
+The Install Character plugin works by extracting files from a "Character Package", a .zip file containing the fighter's files, cosmetics, etc. with a particular directory structure.
+
+
+Character packages can be created manually or automatically using the "Package Character" plugin. There are also a few template packages that you can use to create your own. For more information, visit the wiki page.
+
+
+Ideally, mod creators should create good character packages for you to use with this plugin, but if no package exists, anybody can create one using the previously mentioned plugin or templates.
+
+
+Click the above link to see detailed documentation on all of the plugins included in this suite.
+
+
+The first and most common cause of this issue is not setting up QuickLava's Kirby Hat Manager correctly. Ensure it is installed into your build folder and that you have moved the required files into the folder for the application.
+
+
+Assuming you have QuickLava's Kirby Hat Manager set up correctly, this is not something BrawlInstaller can account for, but is actually a known issue with the KirbyHatEx system. The system is still not entirely stable, and not everything is known about how the hats interact with different fighters and IDs. Most likely, the cause is either an incompatibility with your character, your chosen ID, the chosen base fighter ID for the Kirby hat, or a combination of the three. If you run into Kirby-related issues, try uninstalling your character and reinstalling them to a different fighter ID or installing them with a different base fighter ID for their Kirby hat.
+
+
+Alternatively to the above, you can simply disable installing Kirby hats in your build settings to avoid this issue. In P+Ex builds, this may cause instability if your build does not contain the following code, so add it to your build if you do not have it:
+
+
+#################################################### Temporary Hatless Clone Kirby Inhale Fix [DukeItOut] #################################################### HOOK @ $80814664
+
+
+I added my character but don't see them on the character select screen/SSE character select, or their position on the screen is incorrect.
+
+
+This usually means one of two things - one, your build is not configured to use CSSRoster.dat, or two, you ran out of animated CSS slots in your build. If you're using P+Ex, the roster will only automatically expand up to a certain number of slots, and other builds may not even have the roster automatically expanding. In such a case, you'll have to expand it manually, which can be done in a similar manner to the steps outlined in this guide.
+
+
+For your SSE CSS, you can either follow the steps outlined in this guide (see sections Altering the Number of CSS Icons per Row and Editing the Subspace CSS Animation) or you can download a very basic expanded SSE CSS here. This expanded CSS supports up to 72 slots.
+
+
+My game crashes/freezes/hangs when loading the character select/stage select/a match. 
+
+
+The most common reason for this is that files in your build have reached their capacity. Here are some known filesize limits:
+
+
+
+  
+sc_selcharacter.pac: 3790 KB (3.79 MB)
+
+  
+sc_selcharacter2.pac: 669 KB (0.669 MB - 684,785 B)
+
+  
+sc_selmap.pac: 3234 KB (3.234 MB - 3,310,601 B)
+
+  
+info.pac: 543 KB (0.543 MB)
+
+  
+mu_menumain.pac: 5861 KB (5.72 MB - 6,000,728 B)
+
+
+
+
+If these files are at or near the listed limits, you will likely see crashes. You can try reducing the filesize by switching to RSP loading and/or switching to slot-based stock icons. You can learn more about how to do that using this guide.
+
+
+My character's costumes and portraits don't match up. 
+
+
+This usually means you packaged your character incorrectly. Ensure that that the entries in the fighter's CSSSlotConfig and their cosmetics are in the correct order, and ensure that the CSSSlotConfig entries point to the right .pac files.
+
+
+I get an error about "color smashing", and/or the character portraits in game look messed up. 
+
+
+This usually means you provided bad cosmetics, or you put cosmetics together in a folder when they shouldn't have been. Verify that all of your folders in the "CSPs" and "StockIcons" directories of your character package contain only cosmetics that are recolors of each other, and ensure any provided images are the right size and are color smashable.
+
+
+I get errors with the code menu/strange behavior after installing a character. 
+
+
+Usually this means the build you have uses a code menu that is not compatible with BrawlInstaller. BrawlInstaller only supports QuickLava's code menu. If you are using a build with it's own code menu that is not configured the same way as QuickLava's, you will need to make code menu edits manually, and likely you should set BrawlInstaller not to make code menu changes.
+
+
+The stage/music manager doesn't work for me. 
+
+
+The most likely reason for this is that your build does not use the modern Project+ tracklist and stage systems. Only the Project+ tracklist and stage systems are supported by BrawlInstallers stage and music managers. Most modern builds use this system, but some older builds may not.
+
+
+I don't see a certain character's IDs when using the ID picker. 
+
+
+For character IDs to show in the ID pickers, you need to modify the ID list used by BrawlCrate. For Ex builds, you might want to consider doing this for your Ex characters.
+
+
+Opening my character package with the "Package Character" plugin doesn't work. 
+
+
+Most likely, this is due to the structure of your character package being invalid. Try comparing the package to one of the template packages to get an idea of where everything needs to be, or start fresh using the form to create your package to ensure everything is structured right automatically.
+
+
+This tool was made possible by:
+
+
+
+  
+Soopercool101, Kryal, BlackJax96, and libertyernie for BrawlLib, BrawlBox, and BrawlCrate. Extra thanks to Soopercool101 for making additions to BrawlCrate to support features needed for the BrawlInstaller plugins.
+
+  
+markymawk, for their basic guide to writing plug-ins and for their plug-ins which served as a great learning resource, as well as their stage and music managing guides for Project+ which were a valuable resource.
+
+  
+Kapedani, for providing files and assistance with Subspace Emissary Ex implementation.
+
+  
+QuickLava and codes, for the various tools they created that these plugins are able to interact with.
+
+  
+KingJigglypuff for providing detailed information on currently supported non-Ex modules.
+
+  
+CaliKingz01, who provided the PSA for X to use as an example character package.
+
+  
+Shy, who created the cosmetics used for X.
+
+  
+Hatyaro, for helping with some coding challenges.
+
+  
+The Project+ team, for the advancements made to Brawl modding that made this all possible.
+
+  
+Project+ EX and all the documentation provided and linked within KingJigglypuff's P+Ex Release Document. Learning these processes thoroughly was necessary for creating these plugins.
+
+  
+The Brawl modding community and Custom Brawl Modding discord, for being a great source of knowledge on all things Brawl-modding.
+
+
+
+
+These are some features that are planned for eventual implementation in the plugin suite, if they are feasible.
+
+
+About
+
+
+BrawlCrate plugin suite for easy installation of Brawl mods.
+
+
+DOWNLOAD LINK Brawl+, Brawl-, Unstoppbrawl, PM, Balanced Brawl AIO RIIVOLUTION
+
+
+Here is a pack including all the .GCT and texture changes for all the mods.
+
+
+ 
+April 28, 2011 
+ Download: http://www.mirrorcreator.com/files/YPWQFPEP/Brawl_AIO_Riivolution_Pack.zip_links
+
+
+What it includes 
+ 
+April 3, 2011
+
+
+-Riivloution 1.04 (Latest) 
+-Bionic's ModLauncher 2.5 
+-Brawl Mods
+
+
+Balanced Brawl v3 
+ 
+
+
+Download : http://www.mirrorcreator.com/files/YPWQFPEP/Brawl_AIO_Riivolution_Pack.zip_links 
+Where do I place other mods/textures/music? 
+ 
+
+
+X:/brawlmods/bbrawl/ - Balanced Brawl. RSBE01.gct goes in this folder, as well as all of the other "pf" files. 
+X:/brawlmods/brawlminus/ - Brawl Minus. RSBE01.gct goes in this folder, as well as all of the other "pf" files. 
+X:/brawlmods/brawlplus/ - Brawl Plus. RSBE01.gct goes in this folder, as well as all of the other "pf" files. 
+X:/brawlmods/ubrawl/ - UnstoppaBrawl. RSBE01.gct goes in this folder, as well as "fighter". 
+X:/brawlmods/custom1/ - Custom Set #1. RSBE01.gct goes in the root of this folder. Contains "fighter", "info", "info2", "menu", "menu2", "module", "stage" and "system" folders as well. 
+X:/brawlmods/custom2/ - Custom Set #2. RSBE01.gct goes in the root of this folder. Contains "fighter", "info", "info2", "menu", "menu2", "module", "stage" and "system" folders as well. 
+X:/brawlmods/custom3/ - Custom Set #3. RSBE01.gct goes in the root of this folder. Contains "fighter", "info", "info2", "menu", "menu2", "module", "stage" and "system" folders as well. 
+X:/brawlmods/projectm/ - Project: M. RSBE01.gct goes in this folder, as well as all of the other "pf" files. 
+X:/brawlmods/vbrawl/ - Regular Brawl. RSBE01.gct goes in the root of this folder. Contains "fighter", "info", "info2", "menu", "menu2", "module", "stage" and "system" folders as well.
+
+
+Where do I place my music?
+
+
+X:/brawlmods/music/ - Where you place "info.pac", and optionally, "smashbros_sound.brsar". 
+X:/brawlmods/music/strm/ - Where you place all of your BRSTM files to be used in game.
+
+
+Where do I place my textures?
+
+
+X:/brawlmods/textures/fighter/ - All of the character textures go here, e.g. X:/brawlmods/textures/fighter/captain/FitCaptain00.pac 
+X:/brawlmods/textures/info/ - Anything that belongs in "info" goes in here. 
+X:/brawlmods/textures/menu/ - Anything that belongs in "menu" goes in here. 
+X:/brawlmods/textures/menu2/ - Anything that belongs in "menu2" or "pfmenu2" goes in here. 
+X:/brawlmods/textures/item/ - Item Textures. 
+X:/brawlmods/textures/toy/ - Item Textures. 
+X:/brawlmods/stages/ - All stage textures (pac) + any module files (rel) go here.
+
+
+How about my movies (THP files)?
+
+
+X:/brawlmods/movies/ - Place any THP files you have in here.
+
+
+X:/brawlmods/movesets/ - Place PSA movesets here (e.g. /brawlmods/movesets/falcon/FitFalcon -> /pf/fighter/falcon/FitFalcon)
+
+
+Future: I plan to include Brawl64 and any other major mod/updates.
+
+
+Known Issues: 
+-Pfmenu 2 files not working (Bionic will update Modlauncher to fix)
+
+
+Blind Rage - Brawl Anyone
+
+
+Allows you to brawl any human NPC using vanilla brawl system, without adding any dialogue options or changing any vanilla records. Adds a fun little rage visual.
+
+
+Credits and distribution permission
+
+
+
+  
+Other user's assets All the assets in this file belong to the author, or are from free-to-use modder's resources
+
+  
+Upload permission You are not allowed to upload this file to other sites under any circumstances
+
+  
+Modification permission You must get permission from me before you are allowed to modify my files to improve it
+
+  
+Conversion permission You are not allowed to convert this file to work on other games under any circumstances
+
+  
+Asset use permission You must get permission from me before you are allowed to use any of the assets in this file
+
+  
+Asset use permission in mods/files that are being sold You are not allowed to use assets from this file in any mods/files that are being sold, for money, on Steam Workshop or other platforms
+
+  
+Asset use permission in mods/files that earn donation points You are not allowed to earn Donation Points for your mods if they use my assets
+
+
+
+
+Author notes
+
+
+This author has not provided any additional notes regarding file permissions
+
+
+File credits
+
+
+This author has not credited anyone else in this file
+
+
+Donation Points system
+
+
+This mod is opted-in to receive Donation Points
+
+
+Tired of NPC's mouthing off? Calling your doggo stupid? Guards trash talking you about sweet-rolls? Nazeem trying to shame you cuz he owns a stupid farm? You don't have to take that, fly into a blind rage and beat them unmercifully to teach them a lesson, then steal their gold :)
+
+
+Maybe you just wanna setup your own Skyrim fight club (first rule of Skyrim fight club, don't talk about Skyrim fight club)
+
+
+Of course you can't win em all, if some Orc tough guy(or girl) has the brawn to backup their trash talking, they will steal your gold. But don't worry you can steal it back from them when they're not looking, or challenge them again to win some of it back.
+
+
+What does it actually do though?
+
+
+Add's the blind rage spell to the player. After activating the spell, you will glow red momentarily and your players face will reflect your rage. You will then have the option to brawl with any living human NPC you are not currently in combat with, within 30 seconds (and isn't a child. sorry if you fantasize about beating your kids this isn't the mod for you) 
+
+Important READ first 
+
+
+The mod Uses the vanilla brawl system, the upside is it doesn't edit or conflict with any vanilla brawl quests or dialogue. No new dialogue options are added. Uses a perk entry point to start the brawls. Script only runs after the brawl is started so no performance impact.
+
+
+The downside is the mod shares most of the same quirks and bugs of the vanilla brawl system (although I have fixed the player and NPC's getting permanently stuck in bleed out when brawls are activated through the spell) and I had to work around the vanilla systems bugs.
+
+
+for example, this mod does NOT cause the brawl bug, but if you have the brawl bug, it will happen with random brawls. NPC's turning hostile during brawls occasionally etc.
+
+
+The vanilla brawl system is finicky and I had to deploy a number of fixes to work around it. Maybe some day I'll think about redesigning the brawl system from the ground up. maybe, but for now this seems as stable as Vanilla so I'm good with it.
+
+
+If you can handle the vanilla brawl system this mod should be just fine for you. Please READ THE KNOWN ISSUES SECTION to fix any small issues that may arise, especially before reporting any bugs. 
+ Some quick notes on brawls  
+
+
+Losing a brawl causes the NPC to rob you and steal 10% of your gold. Gold is added to the NPC's inventory so you can steal it back. Winning a brawl steals 10% of the NPC's gold. If the player or NPC has below 10 gold total no gold will be stolen (10% of 9 is less than 1). NPC's will not remain hostile to you afterwards, as again this simply turns on the vanilla brawl system for the NPC temporarily using the same method as Bethesda (just minus the dialogue options). The percentage of gold stolen can be adjusted in the CK, find and change "iPercentage" property value to whatever number you want to reflect as the percentage of gold to be removed. 10 = 10% all the math is done under the hood. Stealing gold for the Player and NPC can be turned on and off. I'm too lazy to make an MCM for a small mod like this so open the console and type the following for the Player or NPC's respectively.
+
+
+"Set BR_PlayerGold to 0" - turns off Player gold stealing
+"Set BR_NPCGold to 0" turns off NPC gold stealing
+
+
+As some of you know I am semi-retired from modding. I make mods for myself when something annoys me (some NPC called my dog stupid so I decided to make a mod to let me throttle him without consequence) and with my friends when they ask. If you find bugs I will try to fix them where I can.
+
+
+How to report a bug 
+
+
+Remove ALLLLLLL other mods. I mean it, all of them. Unless you are reporting a conflict you're wasting your time and mine.
+Try to repeat the issue
+if you can repeat the issue disable blind rage. Go into a vanilla game and start a vanilla brawl, try to repeat the issue. If you CAN'T
+Clear your Papryus log. Reactivate Blind Rage and repeat the issue one last time
+Post a comment with the issue and as much data as you can in the comments section.
+Send me your papyrus log in a pm.
+Give me time to respond.
+
+
+ Known issues 
+
+
+
+  
+Not exactly a bug, but a feature to be aware of related to a vanilla bug. You will be unable to Activate objects in the world after winning a brawl. You will need to wait until the NPC gets back up.
+
+
+
+  
+Now it is possible. occasionally, some NPC will get stuck in a bleed out state in vanilla. I have implemented a fix for the player and NPC's so after 10-20 seconds of being stuck the fix should kick in. If by some slim chance the NPC still doesn't get up, you can try opening the console, clicking on the NPC and typing 'kill' (don't ask me why this works". if the NPC gets up, great you're done. If the NPC dies, open the console again and type 'resurrect' this works 99% of the time. If there are still issues run far away, change cells, or open the console again and type 'EnablePlayerControls' and your controls will be restored. Keep in mind I wrote 10 thousand fixes and safety checks in there so it should almost never happen.
+
+
+
+  
+Speaking of which if you are brawling an NPC and you cross the line into a new cell, the game engine will end the brawl. This is the Vanilla engine behavior, I have only enhanced it to clear all the settings in my mod for safety (run away and everything hopefully fixes itself).
+
+
+
+  
+Occasionally you wont be able to start a brawl with an opponent you just brawled with. This is pretty rare now with my latest code. Leave the area for 5 min and come back to fix this.
+
+
+
+  
+The length of time that a player or NPC stays in bleed out state seems to be totally random. This is the same as vanilla brawl quest and I can't do anything about it without heavily editing the brawl quest which I am not about to touch.
+
+
+
+  
+There is a harmless error in the papyrus log which can occur after a brawl is ended in some scenarios. The SAME error occurs with vanilla brawls if you end a brawl early by hitting a non combatant or running away. It is due to the vanilla brawl quest (not necessarily the mod) trying to start a specific quest from outside the story manager. As I understand it, according Arthmoor author of the unofficial patches, it is not actually proven to be an error https://www.afkmods.com/index.php?/topic/4129-skyrim-interpreting-papyrus-log-errors/ I have given up on fixing this since a number of vanilla quests (including the vanilla brawl quest) are well known to have this error. The error can appear in a few ways but is almost always as follows - ﻿Error: DGIntimidateQuest (00047AE6): attempting to start event scoped quest outside of story manager.
+
