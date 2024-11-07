@@ -1,0 +1,65 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=5163451
+
+
+
+enable_skeleton_draw Command
+
+
+This command will draw the "skeletal" wireframes of all eligible entities. This includes the wireframes of players and guns on the floor - which creates a "wallhack-like" effect.
+
+
+Arguments
+
+
+Arguments are parameters that you add to a command. Find information about this command's arguments below.
+
+
+ 
+ 0 / 1Enter 0 (default) to disable the rendering of wireframes. Enter 1 to enable wireframes being drawn on entities.   
+
+
+
+Extra Info
+
+ Sv_cheats Required? Yes  Client or Server Command? Client  Default Value 0  
+
+enable_skeleton_draw Examples
+
+
+Find below working examples of this command (copy and paste into console).
+
+
+This command would disable the drawing of skeleton wireframes (default).
+
+
+This command enables the drawing of skeleton wireframes. Sv_cheats 1 is required.
+
+
+Total CS:GO is not affiliated with Valve Corporation, or Counter-Strike.
+
+
+Drawothermodels Bind
+
+
+This bind enables cheats and toggles r_drawothermodels command when the J key is pressed. With r_drawothermodels toggled on, players are highlighted through walls and objects, creating a wall hack/X-Ray effect.
+
+
+Bind Commands
+
+
+Below is a basic drawothermodels bind which will toggle x-ray when you press the J key. To change the key this is bound to, press the "Change Key" button. Copy and paste the command into your developer console to apply the bind.
+
+
+How it Works
+
+
+The first part of the command "bind j" binds whatever comes next in quotes to the j key. This command actually has two commands inside the quotes, these are separated by a semi colon (this tells the game to treat them as two different commands).
+
+
+The "sv_cheats 1" command enables cheats - this is required for r_drawothermodels to work. If you aren't on a server that you have admin access to (or in offline mode), you can't enable cheats (so this bind won't work)
+
+
+The semicolon separates the next part of the bind from the first, which is "toggle r_drawothermodels 1 2". The toggle command will toggle commands between two different settings. We specify 1 and 2 after r_drawothermodels because these are the two settings we want to toggle between when j is pressed. When r_drawothermodels is set to 1, wall hacks are off. When r_drawothermodels is set to 2, wall hacks are enabled.
+
+
+Total CS:GO is not affiliated with Valve Corporation, or Counter-Strike.
