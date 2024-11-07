@@ -1,0 +1,227 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=71116
+
+
+
+Greasy Fork
+
+
+Locks aim to the nearest player in krunker.io and shows players behind walls. Also shows a line between you and them.
+
+
+This script contains antifeatures
+
+
+Before you install, Greasy Fork would like you to know that this script contains antifeatures, which are things there for the script author's benefit, rather than yours.
+
+
+This script will inject ads on the sites you visit.
+
+
+How to install
+
+
+You will need to install an extension such as Tampermonkey, Greasemonkey or Violentmonkey to install this script.
+
+
+You will need to install an extension such as Tampermonkey or Violentmonkey to install this script.
+
+
+You will need to install an extension such as Tampermonkey or Violentmonkey to install this script.
+
+
+You will need to install an extension such as Tampermonkey or Userscripts to install this script.
+
+
+You will need to install a user script manager extension to install this script.
+
+
+How to install
+
+
+You will need to install an extension such as Stylus to install this script.
+
+
+You will need to install an extension such as Stylus to install this script.
+
+
+You will need to install an extension such as Stylus to install this script.
+
+
+You will need to install a user style manager extension to install this script.
+
+
+You will need to install a user style manager extension to install this script.
+
+
+Author Zertalious Daily installs 418 Total installs 137,182 Ratings 18 16 11 Version 0.2.0 Created 2021-09-15 Updated 2023-02-26 License N/A Antifeatures Ads
+
+
+What's Aimbot:
+
+
+Locks the aim to the nearest player. Doesn't check if the player is behind the wall so it can make movements hard. Also doesn't auto-shoot. You have to sight and shoot yourself.
+
+
+What's ESP?
+
+
+Shows players behind walls. Also shows a line between you and them. Good for keeping track of players who are behind you.
+
+
+Keyboard Shortcuts:
+
+
+
+  
+[B] to toggle aimbot
+
+  
+[V] to toggle ESP
+
+  
+[N] to toggle ESP Lines
+
+  
+[L] to toggle aimbot on right mouse hold
+
+  
+[H] to show/hide help
+
+
+
+
+Socials:
+
+
+Script doesn't work?
+
+
+Click on the settings tab, on the general section change the config mode to advanced. Then scroll down on the page to the experimental section and change the inject mode to instant.
+
+
+Alternative method:
+There is an anti-cheat active in the game now that blocks all scripts. It is ez to bypass though. Just open krunker and immediately switch to some other tab for a few seconds. Then switch back to krunker tab. If it doesn't work, reload the page and try again.
+
+
+SuperOP535/krunker.io-hack
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+Sign In Required
+
+
+Please sign in to use Codespaces.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching Xcode
+
+
+If nothing happens, download Xcode and try again.
+
+
+Launching Visual Studio Code
+
+
+Your codespace will open once ready.
+
+
+There was a problem preparing your codespace, please try again.
+
+
+Latest commit
+
+
+Git stats
+
+
+Files
+
+
+Failed to load latest commit information.
+
+
+README.md 
+
+
+Scammers and people who stole this script (don't install their scripts as they're all outdated and stolen, thanks!):
+
+
+
+  
+Aimbot (Triggerbot, Quickscoper, Manual, Hip fire) (Various Ranges)
+
+  
+FPS Counter
+
+  
+Player Tracers
+
+  
+Player ESP (aka. Wallhack) (Full, Outline Only) (Various Colors)
+
+  
+BHop (Automatic, Manual)
+
+  
+Speed Hack
+
+  
+NoRecoil
+
+  
+Auto Respawn
+
+  
+Auto Weapon Swap
+
+  
+Auto Reload
+
+  
+Crosshair Mod
+
+
+
+
+
+  
+T: Cycle Through Aimbot Modes
+
+  
+B: Cycle Through BHop Modes
+
+  
+Y: Cycle Through Player ESP Modes
+
+  
+U: Cycle Through Player ESP Colors
+
+  
+I: Change Scope
+
+  
+P: Enable/Disable Speedhack
+
+  
+O: Cycle Through Crosshair Sizes
+
