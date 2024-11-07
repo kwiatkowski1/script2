@@ -1,0 +1,158 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=9838729
+
+
+
+Debug Mode
+
+
+The Debug Mode, or Debug Menu, is an additional set of advanced interface and keyboard commands. It is immediately identified by the menu to the right when the player taps the ESC key, but there are several other menus that make up the entire mode.
+
+
+Warning: These are advanced features and they can permanently affect your world. Use with caution!
+
+
+Contents
+
+
+Getting into Debug Mode [ ]
+
+
+Open the Command Console (F1) and type dm , then hit ENTER.
+
+
+This will also enable the Creative Menu and all functionality therein.
+
+
+The "Main" Menu [ ]
+
+
+The menu to the right (shown with ESC key) has several quick options to modify your world or interact with the player.
+
+
+
+  
+Kill me: Kills the player
+
+  
+Set position: Teleports the player to the given X and Z coordinates. The player is always spawned on the ground. Use the "teleport" command in the Command Console for fine-tuning.
+
+  
+Recalc Light: Recalculate lighting
+
+  
+Recalc stability: Fixes physics props that are floating in the air.
+
+  
+Add light: Spawns a temporary light source at the player's cursor. Close the game/server completely and restart to remove it.
+
+  
+Mem dump: Similar to the "mem" command in the console - Prints memory information and calls garbage collector.
+
+  
+Day: Set the in-game day.
+
+  
+Ticks: The number of in-game ticks that have passed. 1 tick is 1/10th of a second.
+
+  
+Time: Slide the bar left or right to change the current time of day.
+
+  
+Speed: Slide the bar left or right to decrease/increase the speed of time.
+
+  
+Saving active: Enable/disable autosaving.
+
+  
+Physics active: Enable/disable physics.
+
+  
+Ticking active: Freeze/unfreeze the game calculating anything. (Appears to be bugged)
+
+  
+Director nodes: When selected, any entities/zombies spawned through the Entity Menu will spawn on mouse/crosshair/pointer rather than directly in front of player. (other uses unknown)
+
+  
+Debug shader: Highlight in-game shaders. This can be ugly but handy for finding prefabs such as houses.
+
+
+
+
+Enabled Keyboard Controls [ ]
+
+
+
+  
+F3: Display world/player stats on the HUD that show current biome, entities, player information, and a lot more.
+
+  
+F5: Toggle 1st person/3rd person. The "switchview" or "sv" command in the console will also do this. This doesn't work well if the player is already in God mode (G) or Flight Mode (H).
+
+  
+F6: Entity Menu. Shows a list of spawnable entities (zombies, traders, etc.). Careful - some entities can't be killed (TraderTest) and the Entity Spawners will stay in your map forever.
+
+  
+F8: Use this key twice to show additional information other than FPS, such as player core temperature, wellness, and surrounding Heatmap strength.
+
+  
+Q: God Mode. Player takes no damage, can fly, and can clip through walls.
+
+  
+SHIFT+Q: Teleport the player to the cursor. Fall damage will be taken unless God Mode (Q) is turned on first.
+
+  
+K: Information on this is sparse. The "DynamicPrefabs" option appears to be the "Prefab Menu" and allows prefabs to be spawned in-game but only when the menu's functionality is "unlocked" using a third party tool (See https://7daystodie.com/forums/showthread.php?47459-Unlocking-In-Game-Prefab-Editor-(Terrain-Tools)-dll-mod), which also unlocks usage of the J, L, and Z keys to define selections.
+
+  
+P: Detach camera. This causes the camera to stop moving while the player continues to run around. If this is used after F5 (3rd person), you can see the player running around in front of you. To gain control of camera once detached press ' [ '
+
+
+
+
+Server Commands for 7 Days to Die
+
+
+The command line in 7 Days to Die is a developer console that can be enabled by players. It is used to execute server commands as well as other various features in the game. With server commands, a server admin can receive and modify information and statistics, as well as server settings and extensions. It can also be used to spawn objects, change the time in game, and kick players.
+
+
+How to use the commands?
+
+
+There are two different keys (for each version: US or EU) to open the developer console:
+
+
+Console Commands
+
+ Command Short Cut Effect  admin add n/a Adds a player as an admin.  admin remove n/a Removes admin permission from a player.  admin update n/a Changes the admin permission level for that user to the specified value.  aiddebug n/a Switches the AIDirector debug output.  ban n/a Bans a player from your server for a specified amount of time. Allowed inputs for are minutes, hours, days, weeks, months, and years. For example: "ban 175 10 hours" would ban player with ID 175 from the server for 10 hours.  chunkcache cc Displays all loaded chunks in the cache.  clear n/a Clears the command line.  cp add n/a Add command permissions.  cp remove n/a Remove command permissions.  cp update n/a Changes the permissions for a command to the specified value.  debugmenu [on/off] dm Changes the display of the developer console.  enablescope  es Modifies Debug Scope  gameover go Changes the game to Game Over.  kick [reason] n/a Kicks specified player from the server. Reason is optional.  listents le Displays all objects in the game.  listplayers lp Shows all players currently connected to the server.  listthreads lt Shows all threads.  mem n/a Shows memory usage and requests the garbage collector.  mod add n/a Adds a player as a moderator of the specified permission level.  mod remove n/a Removes specified player from the moderator list.  mod update n/a Updates the specified moderator's permission level.  say n/a Broadcast a message to all players on the server.  settime st Sets the time in the current world. Time notation is military time * 1000 (1000 = 1 hour). Examples: 0 = day 1, 4 pm; 8000 = day 2, 12am (midnight); 16000 = day 2, 8 am; 24000 = Day 2, 12 pm (noon)  sounddebug n/a Sets the debug menu to contain sound manager reports.  saveworld sa Manually saves the world.  setgamepref sg Shows the settings that can be changed from the console.  setgamepref sg Set the specified setting to the specified value.  showchunkdata sc Shows data about the current chunk.  shownexthordetime n/a Shows the time to the next horde.  shutdown n/a Stops the Server.  spawnairdrop n/a Spawns an air drop.  spawnentity se Shows a list of objects that can be spawned into the game.  spawnentity se Gives the specified player the specified object.  spawnsupplycrate n/a Spawns a supply crate on the player.  spawnwanderinghorde n/a Spawns a wandering horde of zombies.  whitelist add n/a Adds specified player to the whitelist.  whitelist remove n/a Removes the specified player from the whitelist.  whitelist update n/a Updates the specified player's permission level in the whitelist. 
+
+Debug menu 7 days to die
+
+
+When trying to auto fill a selection the L key does not work any ideas why?
+
+
+I do not see any key binding disabled for example if the G key is disable, the default key for drop item, you will not be able to manually size your selection (z key)
+
+
+If your admin in game just type in console db for debug menu and f6 to access it all, yours at your own risk if your new to this option
+
+
+If your admin in game just type in console db for debug menu and f6 to access it all, yours at your own risk if your new to this option
+
+
+what I ment is best explained in video, below, and go to 5:55
+
+
+If your admin in game just type in console db for debug menu and f6 to access it all, yours at your own risk if your new to this option
+
+
+At risk of asking the obvious. Is there a volume selected in blue? Do you have a block equipped? Is caps lock off? Does the console show any errors?
+
+
+At risk of asking the obvious. Is there a volume selected in blue? Do you have a block equipped? Is caps lock off? Does the console show any errors?
+
+
+Yes there is a blue square ~50x10, wall shaped, and block, R Concrete block, is equipped and the console shows no errors
+
+
+I am mising something unsure what though 
