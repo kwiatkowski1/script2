@@ -1,0 +1,75 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=2698300
+
+
+
+Is CMD - X free or paid Roblox script?
+
+
+CMD - X is a free Roblox script.
+
+
+What is CMD - X Roblox script detectability status?
+
+
+CMD - X Roblox script currently has undetected status.
+
+
+Is CMD - X Require or FE script?
+
+
+CMD - X Roblox script is a Require script.
+
+
+How to use CMD - X Roblox script?
+
+
+To use the CMD - X Roblox script, follow the following steps:
+
+
+
+  
+Copy the script or download it as a text (.txt) document
+
+  
+Depending on script type, paste or insert script into your exploit executor or serverside executor
+
+  
+Select and launch the game on the Roblox games browser
+
+  
+Enjoy!
+
+
+
+
+Additional CMD - X Roblox script information
+
+
+Another great admin script with LOTS of commands
+Over 600+ Commands
+Very stable 
+Most of the commands work
+
+
+How to get the CMD - X Roblox script?
+
+
+To get the CMD - X Roblox script scroll down and click the 'Click Here to Reveal The CMD - X Roblox script' button.
+
+
+Where to find CMD - X Roblox script Pastebin?
+
+
+To find CMD - X Roblox script Pastebin go to the reveal page and scroll right under the additional information block.
+
+
+ROBLOX Kill command to kill specified player
+
+
+I want to make a command that would kill a player you specify.. Let's say I type: kill/Paul. Now I want to kill the player with the name Paul. This is my command Script:
+
+
+local player = . game.Players.PlayerAdded:connect(function(player) --this gets the player that connected player.Chatted:connect(function(message) --this function executes when the player type into chat --commands are here if player.Name == "TominoCZ" or player.Name == "nathancain" or player.Name == "block100000" then if message == "kill/me" then player.Character.Head:remove() end if message == "ff/me" then if player.Character:findFirstChild("ForceField") then player.Character.ForceField:Destroy() end Instance.new("ForceField").Parent = player.Character end if message == "unff/me" then if player.Character:findFirstChild("ForceField") then player.Character.ForceField:Destroy() end end end end) end) 
+
+
+Now you can see that I already have a command that will kill the play that executed it. But how can I kill a different player by specifying the player's name after the "kill/"? This command script might look too long or not too pro, but atleast I know and understand what it does. So any ideas?
