@@ -1,0 +1,277 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=4271670
+
+
+
+The Road Warrior Armor
+
+
+UPDATE: Added the Breeze's Male Bodies version with the PipBoy fix provided by SystemShock. Extract it into your Data folder.
+
+
+Author: toxa01/SystemShock/Cahir Mawr Dyffryn-Smert
+Source: http://fallout3nexus.com/downloads/file.php?id=14539
+Forum: http://forums.bethsoft.com/index.php?/topic/1150080-relz-the-road-warriors-armor/
+Homepage: http://www.newvegasnexus.com/downloads/file.php?id=38738
+
+
+Description
+===========
+Adds the famed Leather jacket worn by Max Rockatansky. Female version included.
+The original mod "Road Warrior Classic Leather Armor" by toxa01 was for Fallout 3, i just ported it into New Vegas. See the credits section.
+
+
+Location
+========
+There are 2 different options for obtaining the armor:
+
+
+1) Keep looking for the Wrecked Highwayman
+Too lazy?: http://fallout.wikia.com/wiki/Wrecked_Highwayman
+
+
+2) Still lazy? Sheesh! Here is the ID of the item.
+XX000ADD
+
+
+XX beign the load order number in FOMM.
+
+
+Details
+=======
+DT: 15
+Health: 300
+Weight: 13
+Value: 2000
+Light Armor
+
+
+Effects:
+Increased Endurance +1
+Increased Guns +3
+Increased Lockpick +5
+Increased Speech +8
+
+
+Install
+=======
+1. Extract the files into the NV Data directory.
+2. Start FOMM, and enable the mod.
+(or if for some reason, you refuse to use the Mod Manager, in the New Vegas Launcher, click 'Data Files', place a checkmark beside the .esp file.)
+3. [drumroll] Play!
+
+
+Uninstall
+=========
+1. uncheck the .esp file in either FOMm or Data Files.
+2. Delete the files/folders associated with the mod.
+
+
+Incompatibility
+===============
+None. I think. If there's any lemme know.
+
+
+Known Issues or Bugs
+====================
+There may be a little itty tiny gap on the right hand, male mesh.
+If there are more, also lemme know.
+
+
+History
+=======
+1.0, 2011/3/5 - Uploaded a version for Breeze's Bodies.
+1.0, 2010/12/16 - Initial release for New Vegas. 
+2010/11/7 - Mesh fix by SystemShock.
+1.0, 2010/9/10 - Initial relase for Fallout 3.
+
+
+Contact
+=======
+You can find me here on teh forums:
+http://forums.bethsoft.com/index.php?/user/499298-smert/
+
+
+Credits
+=======
+Thanks to Obsidian & Bethesda for creating Fallout: New Vegas. The best effin' Fallouty Fallout ever made.
+Thanks to toxa01 for creating this great piece of armor. And for giving me the permission to re-release it. You rock.
+Thanks to SystemShock for providing the Pip-Boy mesh fix. You also rock.
+Thanks to (insert game)Nexus for the a one-stop-shop resource for authors and players. Hammond's words, not mine. :P
+Thanks to LHammonds for the Readme Generator this file was based on. Thanks Ham!
+
+
+Tools Used
+==========
+G.E.C.K. - Garden of Eden Creation Kit - http://geck.bethsoft.com/index.php/Main_Page
+Readme Generator - http://lhammonds.game-host.org/obmm/tools_readme_generator1.asp
+
+
+Licensing/Legal Stuff
+===============
+(Insert legal stuff and rhetorics here)
+
+
+TL:DR; Don't steal this, don't upload this anywhere without mine or original creators consensus unless you want to have an ungodly firestorm rained down upon ya. I am also not responsible if this addon makes your PC or house catch on fire, kill your dog or things like that.
+
+
+P.S.: Sorry for any grammar errors, if there are any. English is not my first language.
+
+
+The Road Warrior
+
+
+Adds a land based mobile player home that can travel to 16 commonwealth, 4 Far Harbor and 2 Nuka World locations. Includes a workshop enabled trailer interior cell.
+
+
+DLC requirements
+
+   DLC name    Automatron  Wasteland Workshop  Far Harbor  Contraptions Workshop  Vault-Tec Workshop  Nuka World   
+
+Credits and distribution permission
+
+
+
+  
+Other user's assets All the assets in this file belong to the author, or are from free-to-use modder's resources
+
+  
+Upload permission You are not allowed to upload this file to other sites under any circumstances
+
+  
+Modification permission You must get permission from me before you are allowed to modify my files to improve it
+
+  
+Conversion permission You are not allowed to convert this file to work on other games under any circumstances
+
+  
+Asset use permission You must get permission from me before you are allowed to use any of the assets in this file
+
+  
+Asset use permission in mods/files that are being sold You are not allowed to use assets from this file in any mods/files that are being sold, for money, on Steam Workshop or other platforms
+
+  
+Asset use permission in mods/files that earn donation points You are not allowed to earn Donation Points for your mods if they use my assets
+
+  
+Console modding permission This mod will not be available on Bethesda.net for console users
+
+
+
+
+Author notes
+
+
+This author has not provided any additional notes regarding file permissions
+
+
+File credits
+
+
+This author has not credited anyone else in this file
+
+
+Donation Points system
+
+
+This mod is opted-in to receive Donation Points
+
+
+The Road Warrior 
+
+
+ 
+Update 11.2.2021: Add a file called the vertibird edition that includes 8 landing zones for vertibirds next to the camp at sites that are not close to a settlement. You may want to use this if you use vertibird mods. If it is close to a settlement you can built your own helipad. Save your game and exit FO4, uninstall the current non vertibird version and download the new one and enable it then restart your game. You should not loose anything - don't completely remove from your save or you will loose stuff. There is a new menu item for managing the LZ's. You can enable or disable them (Except for Vault 95) and can enable or disable guards. The guards are unique and essential so you can use looks menu to change appearance and you can use advanced follower tweaks to change their clothes, inventory and weapons (for AFT use the keep AI option). I may have gone a bit overboard at one Far Harbor site that can be disabled and Vault 95 which can't be disabled. There are a few locations I did not add guards to - Lake Quannapowitt, Lake Cochituate and Brook's Head Lighthouse. I also have another mod that has more vertibird LZs if you wanted more.
+
+
+Update 10.26.2021: Cleaned up some navmesh. Currently using on a playthrough and have not encountered any issues yet.
+
+
+The Road Warrior is a land based mobile player home (camp) that can travel to 16 commonwealth, 4 Far Harbor and 2 Nuka World locations. Includes a workshop enabled interior cell in the inside of the trailer that you can make into an RV or whatever you like. You can also use my boat based mobile player home called The Red Wave 3 if you are interested. Might be useful when exploring Far Harbor.
+
+
+I made this mod to enable a more settlement free play through so I would not have to keep going back to settlements for my stuff as I played the game. You can keep your bobbleheads, magazines, collectables etc in the interior of the trailer that will stay with you throughout the game. You can also use settlements like normal if you wish.
+
+
+This has just been released and you might want to consider this a beta version. I have tested all features and locations in game (I think) and have fixed any issues I have found. It currently appears to be fairly stable. List any bugs you find in the bugs section. 
+
+
+You can acquire the vehicle via a short quest at the start of the game. Just outside of vault 111 in the trailer just down the hill from the vault by the fence gate there is a note on the desk that will start the quest. There are more details in the spoiler below:
+
+
+To complete the quest go to the APC just West of Sanctuary in the river and enter it. The quest should update. Then go to the Wicked Shipping facility and enter the locked trailer. This should complete the quest and the vehicle will appear just north of the Red Rocket settlement. You should be able to see it in the pipboy.
+
+
+Note: Depending on which vegetation mods you have installed you may find some trees or plants in the way. You can remove them using the console commands 'disable' and 'markfordelete' or move them with modpos.
+
+
+HolotapeAfter you complete the quest the holotape will be in the APC on the right. Use this to configure all of the vehicle features.
+
+
+ 
+Workbenches 
+The camp includes all workbenches in the standard game and they are linked to the workshop in the interior cell so you should have access to all of your stuff both outside and inside the vehicle at every location. The workbenches are on the outside of the trailer and can be selected using a configuration holotape. You can also create workbenches on the interior as well but there is not a lot of room in the interior as it is just the inside of a trailer. The robotic workbench will not be available until you start the Automatron quest at level 15.
+
+
+ Containers There are five containers on the outside of the trailer that you can use to store your stuff. They can also be locked via the holotape.
+
+
+ Turrets There are three turrets you can use on the outside of the trailer for defence or you can choose none if you wish. They start with the Mk 1 Turrets at level one. At level 16 you get access to Mk 3 turrets, level 28 for Mk 5 turrets and level 40 for Mk 7 turrets. Configure using the holotape. The turrets are invulnerable.
+
+
+ Flags You can choose from the four standard faction flags, three raider flags or no flags. Configure using the holotape.
+
+
+ Scrapper There is a junk scrapper that you can load common junk into and break it down to it's components on the outside of the trailer (ONLY PUT JUNK IN IT!)
+
+
+ Radios There are three radios and you can change the stations using the holotape. Install the mod Atom Cat's Radio if you want to listen to the Atom Cat's radio channel.
+
+
+ Power Armor You can register up to three power armor frames using the holotape which will allow you to have them follow you when you fast travel or move the camp. You can register a PA by walking up to it (make sure it is the closest one to you) and selecting one of the three slots in the holotape to save it. Clicking on a slot with a PA already registered will remove it and make it available. It is recommended that you not be in a registered PA when moving or fast traveling with the camp. When you have registered one or more power armors you can go into the utilities menu and run the update option which will move all registered PAs to a location by the APC. This way you can tell which PA is in which slot per the picture below. Slot 1 is closest to the APC, slot 2 is in the middle and slot 3 is farthest from the APC.
+
+
+ Trailer Interior Clicking on the trailer gate at the back will fast travel you to an interior cell inside a trailer. There is a small workbench you can use like a normal workbench and you can enter workshop mode to build interior items like normal workshop mode. It is highly recommended that you use a mod like Place Everywhere or you will have a hard time placing objects inside. This is where I keep bobbleheads, magazines etc. You can also use it to escape rad storms. The picture below show a possible interior config with a bed, stove, sink, dining table and game/magazine room. If you create a workbench like the stove you can move the workshop workbench completely out of the trailer if you like (place anywhere use insert key to enable moving the WB then push it through the wall). If you need power you will have to use the console command 'tcl' with no ref id selected (click twice) to enable no clipping and you can exit the trailer and set up whatever power system you like. Do not delete any existing items out there though or you might break the mod. Always save first.
+
+
+ Traveling Note: Before you can travel to a site you have to find it first. After the initial quest has been completed you will have access to the Red Rocket site but will have to find the rest of them. IT WILL COST 150 CAPS TO TRAVEL TO OR FROM FAR HARBOR (ferry fee). When you find a site you will see a notification message in the top left of your screen. Also you can open the pip boy and see if any new sites are available. See the spoiler for campsite locations.
+
+
+
+Copy the following into the console for the site or sites you can't find then use the terminal to fast travel there.
+Red Rocket: Set RW9_Found_RedRocket to 1 
+Drumlin Diner: Set RW9_Found_DD to 1 
+Graygarden: Set RW9_Found_Graygarden to 1 
+Taffington Boathouse: Set RW9_Found_TBH to 1 
+Lake Quannapowitt: Set RW9_Found_LQ to 1 
+Bunker Hill: Set RW9_Found_BH to 1 
+Hangman's Alley: Set RW9_Found_HA to 1 
+The Slog: Set RW9_Found_TheSlog to 1 
+Kingsport Lighthouse: Set RW9_Found_KPLH to 1 
+Nordhagen Beach: Set RW9_Found_NB to 1 
+The Castle: Set RW9_Found_TC to 1 
+South Boston Campsite: Set RW9_Found_SBC to 1 
+Lake Cochituate: Set RW9_Found_LC to 1 
+Atom Cat's Garage: Set RW9_Found_ACG to 1 
+Cutler Bend: Set RW9_Found_CB to 1 
+Vault 95: Set RW9_Found_V95 to 1 
+Far Harbor South: Set RW9_Found_FHS to 1 
+Brook's Head Lighthouse: Set RW9_Found_BHL to 1 
+Echo Lake Lumber: Set RW9_Found_ELL to 1 
+Dalton Farm: Set RW9_Found_DF to 1 
+Nuka World East: Set RW9_Found_NWE to 1 
+Nuka World West: Set RW9_Found_NWW to 1 
+
+
+There are two ways to move the vehicle to a new campsite. You can use the terminal in the APC to select a new destination﻿ and you will fast travel on exiting the terminal or you can use the holotape to move the vehicle to another previously discovered site. For example, if you are out walking around and find another site you can open the pipboy and use the holotape to move the vehicle to the campsite you just found. If you do this anything you had out at the old campsite like tents from the mod Campsite will be left behind and you will have to go back for them.
+
+
+ Followers If you don't want your followers to enter the trailer with you due to space constraints you can use a mod like amazing follower tweaks to set their home location to the current trailer location then dismiss them and they will sandbox around the outside of the trailer while you do other things.
+
+
+ Utilities There are a few utilities in the holotape that can be usefull. The first one will update the positions and rotation of the power armor, radios, containers and turrets. This is needed because these are moved to the new site with the vehicle. If you are not at the site and the cell is unloaded it will position them correctly but the rotation will be off so when you arrive there or any time you find that they need to be updated run this utility.
+
+
+The next two items lock and unlock your containers in case you feel the need to do so. If you are worried about NPCs accessing your workbenches you can hide those using the holotape. Just uncheck them.
+
+
+The last one is just in case the event for the terminal does not get unregistered correctly but should not be needed. I have not needed it in testing.
