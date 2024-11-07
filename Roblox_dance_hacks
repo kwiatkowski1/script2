@@ -1,0 +1,430 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=7135856
+
+
+
+Roblox dance script
+
+
+local p=Instance.new("Part", par) pcall(function() p.TopSurface="Smooth" p.BottomSurface="Smooth" p.formFactor="Custom" p.Anchored=a p.CanCollide=c p.BrickColor=BrickColor.new(col) p.Transparency=t p.Size=s p.CFrame=cf or CFrame.new() end)
+
+
+local p=Instance.new("WedgePart", par) pcall(function() p.TopSurface="Smooth" p.BottomSurface="Smooth" p.formFactor="Custom" p.Anchored=a p.CanCollide=c p.BrickColor=BrickColor.new(col) p.Transparency=t p.Size=s p.CFrame=cf or CFrame.new() end)
+
+
+local g=Instance.new(ins, par) pcall(function() g.BorderColor=BrickColor.new(bc) g.BackgroundColor=BrickColor.new(bg) g.TextColor=BrickColor.new(tc) g.FontSize=fs g.Font="ArialBold" g.Text=text g.Transparency=t g.Size=s g.Position=pos end)
+
+
+local w=Instance.new("Weld", par) pcall(function() w.Part0=w.Parent or par w.Part1=p1 w.C1=cf or CFrame.new() end)
+
+
+local m=Instance.new(ins, par) pcall(function() m.Scale=s or Vector3.new() m.Offset=of or Vector3.new() m.MeshType=t end)
+
+
+pcall(function() player.Backpack[scriptname]:remove() char[scriptname]:remove() char["Objects"]:remove() player.PlayerGui[scriptname]:remove() end)
+
+
+body.ArmLeft, body.ArmRight=add.Part(model, false, false, skincolor, 1, Vector3.new(1, 1, 1), nil), add.Part(model, false, false, skincolor, 1, Vector3.new(1, 1, 1), nil)
+
+
+body.LegLeft, body.LegRight=add.Part(model, false, false, skincolor, 1, Vector3.new(1, 1, 1), nil), add.Part(model, false, false, skincolor, 1, Vector3.new(1, 1, 1), nil)
+
+
+body.ArmLeftW, body.ArmRightW=add.Weld(body.ArmLeft, body.Torso, CFrame.new(-1.5, .5, 0)), add.Weld(body.ArmRight, body.Torso, CFrame.new(1.5, .5, 0))
+
+
+body.LegLeftW, body.LegRightW=add.Weld(body.LegLeft, body.Torso, CFrame.new(-.5, -1.5, 0)), add.Weld(body.LegRight, body.Torso, CFrame.new(.5, -1.5, 0))
+
+
+Dance Moms Roblox ID Codes Songs – April 2023
+
+
+
+
+  
+153702145 – Song Id Code = Cry (Maddie Solo)
+
+  
+772730877 – Song Id Code = Boss Ladies
+
+  
+1533226945 – Song Id Code = Lemonade (Kenzie)
+
+  
+5625604938 – Song Id Code = Pink Lemonade Broadway Puppies
+
+  
+6116480363 – Song Id Code = Pink Lemonade
+
+  
+205304685 – Song Id Code = Electricity
+
+  
+1146833049 – Song Id Code = Hotline
+
+  
+208119772 – Song Id Code = Stomp the Yard (Heartbeat)
+
+  
+210735798 – Song Id Code = Frost by Rachel Sage
+
+  
+213055422 – Song Id Code = Amber Alert (Touch)
+
+  
+214482544 – Song Id Code = Dance Doctor (I’ll Be Your Dance Dr.)
+
+  
+215047238 – Song Id Code = Electricity (Jojo Siwa Solo)
+
+  
+245605333 – Song Id Code = Open Waters
+
+  
+248255922 – Song Id Code = Stomp the Yard
+
+  
+281236293 – Song Id Code = Always a Bridesmaid
+
+  
+382415181 – Song Id Code = Better Off Now
+
+  
+386647604 – Song Id Code = Ease on Down the Boulevard
+
+  
+591108974 – Song Id Code = The Elites
+
+  
+879563265 – Song Id Code = Eat Chips
+
+  
+879563665 – Song Id Code = Sink or Swim
+
+  
+960186103 – Song Id Code = Maniac
+
+  
+1146771026 – Song Id Code = The Last Dance
+
+  
+1154367713 – Song Id Code = Spy Hot Ties From
+
+  
+1157282309 – Song Id Code = Spy Girls Featured on
+
+  
+1172176903 – Song Id Code = The Waiting Room
+
+  
+1268575380 – Song Id Code = Beautiful Bizzare
+
+  
+1276828894 – Song Id Code = We Believe Trio!
+
+  
+1277812099 – Song Id Code = Alice Theme
+
+  
+1282691842 – Song Id Code = Yum Yum
+
+  
+1282932563 – Song Id Code = Maddie & Chloe Duet
+
+  
+1329996785 – Song Id Code = Survivor
+
+  
+1383033192 – Song Id Code = Abbys Angels
+
+  
+1507702657 – Song Id Code = Wishbone (Pai Ge and Chloe)
+
+  
+1598845354 – Song Id Code = Bully (Mackenzie)
+
+  
+1598846642 – Song Id Code = Elliana Wamsley Music
+
+  
+1609295302 – Song Id Code = Freak Brynn Rumfallo Hip Hop Solo
+
+  
+1613135953 – Song Id Code = The Minis Group Dance Cali Cuties
+
+  
+1613236356 – Song Id Code = Lilli Full Solo Route
+
+  
+1625796774 – Song Id Code = The Minis Group Dance Gossip Girls
+
+  
+1766799600 – Song Id Code = Together We Stand
+
+  
+2160593376 – Song Id Code = People Song
+
+  
+2322592496 – Song Id Code = Wishbone
+
+  
+2628175707 – Song Id Code = Ooh La La
+
+  
+2790811699 – Song Id Code = Last One Standing
+
+  
+3250752418 – Song Id Code = Freak Show
+
+  
+3282311062 – Song Id Code = Witches of East Canton
+
+  
+3294291061 – Song Id Code = Light My Fire
+
+  
+3371515781 – Song Id Code = Paint the Pictures Brooke
+
+  
+3371656190 – Song Id Code = The Game of Love
+
+  
+3375013125 – Song Id Code = Born to Dance
+
+  
+3375259459 – Song Id Code = Ups and Downs
+
+  
+3375344110 – Song Id Code = Arm Yourself
+
+  
+3376075918 – Song Id Code = Mother
+
+  
+3376083676 – Song Id Code = Dancing Barefoot
+
+  
+3376822845 – Song Id Code = Dance with the Devil
+
+  
+3380224325 – Song Id Code = Eternally
+
+  
+3381545037 – Song Id Code = Botched
+
+  
+3381551246 – Song Id Code = Supermodel
+
+  
+3391686845 – Song Id Code = Living with the Ribbon
+
+  
+3394317705 – Song Id Code = Les Divas
+
+  
+3399555895 – Song Id Code = Get Up Get Loud Get Tough
+
+  
+3420144418 – Song Id Code = All Eyes On Me
+
+  
+3420169289 – Song Id Code = Born to Sing
+
+  
+3427967893 – Song Id Code = I Want It
+
+  
+3437365729 – Song Id Code = Blue Moon
+
+  
+3444168137 – Song Id Code = Lights Camera Action
+
+  
+3444191858 – Song Id Code = I Wanna Dance
+
+  
+3453341358 – Song Id Code = All I Want (Mackenzie’s Solo)
+
+  
+3475854696 – Song Id Code = Care Less
+
+  
+3486442320 – Song Id Code = On The Edge Of My Seat
+
+  
+3487014167 – Song Id Code = The Robot (2 Minutes Long)
+
+  
+3518855954 – Song Id Code = Is There Still Hope? (Shorter)
+
+  
+3535439284 – Song Id Code = Electricity – Ashley Jana
+
+  
+3539586621 – Song Id Code = Break Me Song
+
+  
+3575643627 – Song Id Code = Twisted Two Song
+
+  
+3582886035 – Song Id Code = The Favourite
+
+  
+3587724852 – Song Id Code = The One
+
+  
+3589950184 – Song Id Code = Gemini Song
+
+  
+3596910347 – Song Id Code = Just Be Song
+
+
+
+We will keep this codes list updated, stay tuned
+
+
+Dance Moms social media channels:
+
+
+
+  
+Twitter: ??
+
+  
+Discord channel: https://discord.com/invite/robloxaldc
+
+  
+Youtube: @officialrobloxaldc
+
+  
+Join Roblox Group: https://www.roblox.com/groups/8565769/Official-Roblox-ALDC#!/about
+
+
+
+
+Dance Moms Roblox ID Codes Songs – Expired Codes
+
+
+These codes don’t work anymore:
+
+
+FAQ – How to Redeem?
+
+
+
+  
+Launch Roblox Dance Moms on your PC or mobile device
+
+  
+Turn on the radio by pressing ‘E’ on your keyboard
+
+  
+Enter any of the active codes found above into the text box
+
+  
+Press play to make sure the song starts playing
+
+
+
+
+See how the youtuber Gaming Dan Redeems these codes in this video:
+
+
+How to play Dance Moms? Roblox Game by Official Roblox ALDCᅠ
+
+
+Welcome to Official Roblox ALDC. 
+Established December 9th, 2020 by Abby and Gia
+
+
+Join our group: https://www.roblox.com/groups/8565769/Official-Roblox-ALDC
+
+
+We are a Dance Moms game where you can roleplay, make friends, dance, and compete!
+
+
+If you enjoy this game feel free to give it a like and favorite to show support!
+
+
+More Roblox Codes – Other Games
+
+
+Have you enjoyed the codes? Looking for another game’s codes? Find them here, more than 300 roblox games with their valid codes updated lists. But check these top games:
+
+
+
+  
+Anime Fighters Simulator – AFS
+
+  
+Shindo Life – SL2
+
+  
+All Star Tower Defense – ASTD
+
+  
+Pet Simulator X
+
+  
+King Legacy
+
+  
+Grand Piece Online – GPO
+
+  
+Jailbreak
+
+  
+A One Piece Game
+
+  
+Doodle World
+
+  
+YouTube Life
+
+  
+Gumball Factory Tycoon
+
+  
+Anime Adventures
+
+  
+AU Reborn
+
+  
+Venture Tale
+
+  
+Anime Squad Simulator
+
+  
+Race Clicker
+
+  
+Tapper Simulator
+
+  
+One Punch Fighters
+
+  
+Doors
+
+  
+My Prison
+
+  
+2019 Booga Booga
+
+  
+War Simulator
+
+  
+World of Stands
+
+
+
+
+Dance Moms, by Official Roblox ALDC, Roblox Game Site > Here
+
+
+Related posts:
