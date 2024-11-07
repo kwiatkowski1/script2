@@ -1,0 +1,117 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=6717829
+
+
+
+TheNexusAvenger/Nexus-VR-Character-Model
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+Name already in use
+
+
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+Sign In Required
+
+
+Please sign in to use Codespaces.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching GitHub Desktop
+
+
+If nothing happens, download GitHub Desktop and try again.
+
+
+Launching Xcode
+
+
+If nothing happens, download Xcode and try again.
+
+
+Launching Visual Studio Code
+
+
+Your codespace will open once ready.
+
+
+There was a problem preparing your codespace, please try again.
+
+
+Latest commit
+
+
+Git stats
+
+
+Files
+
+
+Failed to load latest commit information.
+
+
+README.md 
+
+
+Nexus VR Character Model replaces the default controls and camera of R15 Roblox characters and maps the character to the player's headset and hand controllers.
+
+
+To access the menu, the left controller must be rotated counter-clockwise and the right controller must be rotated clockwise so that they are facing each other or upwards while facing roughly forward. This gesture is used to be out of the way of most games.
+
+
+
+  
+Optimizations for specific headsets and controllers can't be made because the hardware is not communicated to the developer. Some headsets, like the HP Reverb G2, may perform poorly.
+
+  
+R6 characters are not supported. R15 is recommended for new projects since R15 gets better support and has more functionality.
+
+  
+The foot-planting code is old and could use a rewrite.
+
+  
+The menu gesture is not obvious. Most players may not know about it.
+
+
+
+
+The repository can be synced into Roblox using Rojo, which will include the loader with the MainModule . If the loader contains MainModule , it will load the MainModule . Otherwise, the asset id 10728814921 will be fetched. The behavior allows for automatic updates while still allowing an easy way to use static versions. The loader uploaded to the website does not include the MainModule , so it will default to fetching the latest version.
+
+
+Nexus VR Core is used for user interfaces in Nexus VR Character Model. When Nexus VR Character Model is loaded, a module named NexusVRCore will be loaded in ReplicatedStorage . See Nexus VR Core's docs on how to use it to make user interfaces that can be interacted with by VR users.
+
+
+See included-apis.md for the APIs that can be referenced.
+
+
+Both issues and pull requests are accepted for this project.
+
+
+Nexus VR Character Model is available under the terms of the MIT License. See LICENSE for details.
+
+
+About
+
+
+Maps Roblox characters to the VR inputs of players.
+
+
+FONDA AND DE NIRO NOT ENOUGH TO OFFSET WEAK 'STANLEY & IRIS' SCRIPT
+
+
+To get the most out of a visit with ``Stanley & Iris,' you have to first suspend your disbelief and then lower your expectations.
+
+
+The first is easy. It takes only about 10 minutes to accept Jane Fonda as a recently widowed mother of two who is barely able to scrape together a living at the local bakery. In the same length of time, you'll believe Robert De Niro is actually Stanley Cox, an average guy except that he is unmarried, still lives with his aged father and is unable to read or write.Stanley and Iris meet when he sees her leap from a bus in pursuit of a purse snatcher. Stanley takes off, too, but the thief gets away. He comforts Iris and escorts her home. She's surprised to learn that he works as a cook in the bakery cafeteria. She had never noticed him, but he recognizes her. After all, as he says, she ``stands out.'
+
+
+Iris' growing awareness of Stanley's illiteracy is perfectly paced. The first hint comes when the two accidentally meet at a coin laundry and, waiting for the clothes to finish, go across the street to a Chinese lunch stand for eggrolls. Iris reads her fortune and eagerly wants to know what Stanley's says. He brusquely dismisses the subject and puts the fortune cookie in his pocket.
