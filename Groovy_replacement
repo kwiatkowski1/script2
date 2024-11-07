@@ -1,0 +1,71 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=7462279
+
+
+
+Class StringUtils
+
+
+The modified implementation is based on StringUtils#replace(String text, String searchString, String replacement, int max), Apache commons-lang3-3.6 Replaces all occurrences of a String within another String. A null reference passed to this method is a no-op.
+
+
+StringUtils.replace(null, *, *) = null StringUtils.replace("", *, *) = "" StringUtils.replace("any", null, *) = "any" StringUtils.replace("any", *, null) = "any" StringUtils.replace("any", "", *) = "any" StringUtils.replace("aba", "a", null) = "aba" StringUtils.replace("aba", "a", "") = "b" StringUtils.replace("aba", "a", "z") = "zbz"
+
+
+isEmpty
+
+
+StringUtils.isEmpty(null) = true StringUtils.isEmpty("") = true StringUtils.isEmpty(" ") = false StringUtils.isEmpty("bob") = false StringUtils.isEmpty(" bob ") = false
+
+
+NOTE: This method changed in Lang version 2.0. It no longer trims the CharSequence. That functionality is available in isBlank().
+
+
+Copyright © 2003-2022 The Apache Software Foundation. All rights reserved.
+
+
+Replacing a word with $ in groovy
+
+
+I have the following piece of groovy code from a gradle build file I am using for replacing a word in a php file:
+
+
+def str1="My application version is $app_version" def str2 = str1.replaceAll('$app_version','2016072601') println str2​ 
+
+
+I want to replace $app_version with defined number in this method but somehow it is not working. Do I need to escape or do any special action to perform this replacement?
+
+
+"My application version is $app_version" ==> Here app_version a variable must. In groovy if you are using '$' before string with in double inverted comma then it is use as a variable.
+
+
+2 Answers 2
+
+
+Strings with double quotes and $ are GStrings, which triggers Groovy's string interpolation. Also, replaceAll receives a regex as first argument, and $ is a special character in regex, thus, you need to double escape that too.
+
+
+You can use single quotes OR you can escape the $ character in your str1 :
+
+
+def str1='My application version is $app_version' def str2 = str1.replaceAll('\\$app_version','2016072601') assert str2 == 'My application version is 2016072601' 
+
+
+Update: Expanding string interpolation a bit, it replaces the $ placeholder in your string with the variable value of the same name (though not immediately, as it creates an instance of GString first). It is roughly akin to this in Java:
+
+
+String str1 = "My application version is " + app_version; 
+
+
+So, instead of replacing the variable with replaceAll , you could have a variable in your script with the name app_version , like def app_version = "2016072601" (which is kinda like @BZ.'s answer)
+
+
+Update 2: By using string interpolation (as per @BZ.'s answer) or string concatenation, you don't need to use replaceAll , but you need a variable called app_version :
+
+
+def app_version = '2016072601' def str1 = "My application version is $app_version" assert str1 == 'My application version is 2016072601' 
+
+
+And with string concatenation you also need a variable called app_version :
+
+
+def app_version = '2016072601' def str1 = "My application version is " + app_version assert str1 == 'My application version is 2016072601' 
