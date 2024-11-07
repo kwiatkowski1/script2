@@ -1,0 +1,159 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=6419167
+
+
+
+GFI Command
+
+
+This command adds an item to your inventory, relative to the blueprint, amount and quality specified. You can specify only part of the blueprint instead of the full blueprint, provided it is a unique part that no other blueprints have (e.g. 'gem' is shared between the Blue Gem, Green Gem and Red Gem, so it cannot be used, but 'Absorbent' is only in 'Absorbent Substrate' so it is fine). See our Ark ID list for item IDs, blueprints, GFI codes, etc.
+
+
+Argument Information
+
+
+The syntax for this Ark admin command is as follows:
+
+
+ 
+   Blueprint / GFI Type: GFI Code The blueprint of the item you wish to add. You can include just part of the blueprint (provided it is unique).   Amount Type: Number The amount of the item(s) you wish to give.   Quality Type: Number The quality you wish the item(s) to have.   Force Blueprint Type: Boolean Specify '0' to add the item to your inventory, '1' to add the blueprint of the item to your inventory.    
+
+
+
+Command Information
+
+
+Find below information relating to the GFI command in Ark.
+
+
+Ark color commands
+
+
+There are these new commands: SetTargetPlayerBodyVal and SetTargetPlayerColorVal which change something for some body region. But what exactly do they do and how?
+We (Phill and I, running a private server) have been experimenting a bit and want to share what we found out. So far we could not find any source explaining the thing completely. I do not guarantee this to be entirely correct, this is just what we have been experiencing.
+You probably know an admin has to change your values for you. He has to look at you and enter "cheat SetTargetPlayerBodyVal 9 0.5" for example (this would change the length of your character's legs). Then you have to respawn to see the effect.
+It took us a lot of experimenting, respawning and teleporting to get what we wanted: I changed the values of Phill's character, Phill respawned at some random bed and teleported back to my character.
+It seems that for every region 0 is the default value. In the patch notes (or any source I found) it says the float value has to be between 0 and 1, but negative values seem to work, too. We shortened Phill's legs this way. -0.2 did work, -1 did not though.
+
+
+The body regions are as follows:
+
+
+
+  
+0 - changes the body color
+
+  
+1 - changes the hair color; "cheat SetTargetPlayerColorVal 1 0.9" gives you light blonde hair for example
+
+  
+2 - eye color. 0 is yellow-ish, 0.4 is green-blue-ish, 0.5 is green 0.7 is orange, 0.8 is red.
+
+
+
+  
+0 - head size
+
+  
+1 - neck size
+
+  
+2 - neck length
+
+  
+3 - chest
+
+  
+4 - shoulders (width)
+
+  
+5 - arm length
+
+  
+6 - upper arm (width)
+
+  
+7 - lower arm (width)
+
+  
+8 - hand size
+
+  
+9 - leg length
+
+  
+10 - upper leg (width)
+
+  
+11 - lower leg (width)
+
+  
+12 - foot size
+
+  
+13 - hip width
+
+  
+14 - torso width
+
+  
+15 - upper face size
+
+  
+16 - lower face size
+
+  
+17 - torso depth
+
+  
+18 - head height
+
+  
+19 - head width
+
+  
+20 - head depth
+
+  
+21 - torso height
+
+  
+22 - not used?
+
+  
+23 - not used?
+
+  
+24 - not used?
+
+  
+25 - not used?
+
+  
+26 - not used?
+
+  
+27 - not used?
+
+  
+28 - not used?
+
+  
+29 - not used?
+
+  
+30 - not used?
+
+
+
+
+100% Agree, this should be stickied !
+
+
+Couldn't find this thread back with the forum search engine, except when I wrote the ENTIRE title (hopefully I first found this thread trough my browser and not Steam, so could find it again with Internet history).
+
+
+100% Agree, this should be stickied !
+
+
+Couldn't find this thread back with the forum search engine, except when I wrote the ENTIRE title (hopefully I first found this thread trough my browser and not Steam, so could find it again with Internet history). 
+Hint now that you posted in it just click on Post History.
