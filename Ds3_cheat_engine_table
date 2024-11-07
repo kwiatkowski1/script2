@@ -1,0 +1,304 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=9077583
+
+
+
+Dark Souls 3 Item ID List
+
+
+Below is a searchable list of all 3339 Dark Souls 3 item IDs which can be used with Cheat Engine to spawn items. These hex IDs are up-to-date for the latest version of Dark Souls 3 on Steam (PC / Mac).
+
+
+If you're not sure how to use these item codes to spawn items, or are having trouble doing so, click the button below to check out our comprehensive guide on the subject:
+
+
+You can change the way the item IDs are displayed by pressing the "Table View" and "Card View" buttons. Type the name of an item into the search box below to instantly search our database of 3339 item codes.
+
+  Image Name Code    Roster of Knights 4000006C  Cracked Red Eye Orb 4000006F  Divine Blessing 400000F0  Hidden Blessing 400000F1  Silver Pendant 400000F2  Green Blossom 40000104  Budding Green Blossom 40000106  Bloodred Moss Clump 4000010E  Purple Moss Clump 4000010F  Blooming Purple Moss Clump 40000110  Purging Stone 40000112  Rime-blue Moss Clump 40000114  Repair Powder 40000118  Kukri 40000122  Firebomb 40000124  Dung Pie 40000125  Alluring Skull 40000126  Undead Hunter Charm 40000128  Black Firebomb 40000129  Rope Firebomb 4000012B  Lightning Urn 4000012C  Rope Black Firebomb 4000012E  Stalk Dung Pie 4000012F  Duel Charm 40000130  Throwing Knife 40000136  Poison Throwing Knife 40000137  Charcoal Pine Resin 4000014A  Gold Pine Resin 4000014B  Human Pine Resin 4000014E  Carthus Rouge 4000014F  Pale Pine Resin 40000150  Charcoal Pine Bundle 40000154  Gold Pine Bundle 40000155  Rotten Pine Resin 40000157  Homeward Bone 4000015E  Coiled Sword Fragment 4000015F  Wolf's Blood Swordgrass 4000016E  Human Dregs 4000016F  Forked Pale Tongue 40000170  Proof of a Concord Well Kept 40000171  Prism Stone 40000172  Binoculars 40000173  Proof of a Concord Kept 40000174  Pale Tongue 40000175  Vertebra Shackle 40000176  Sunlight Medal 40000177  Dragon Head Stone 40000179  Dragon Torso Stone 4000017A  Rubbish 4000017C  Dried Finger 40000181   
+
+Roster of Knights
+
+
+Cracked Red Eye Orb
+
+
+Divine Blessing
+
+
+Hidden Blessing
+
+
+Silver Pendant
+
+
+Green Blossom
+
+
+Budding Green Blossom
+
+
+Bloodred Moss Clump
+
+
+Purple Moss Clump
+
+
+Blooming Purple Moss Clump
+
+
+Purging Stone
+
+
+Rime-blue Moss Clump
+
+
+Repair Powder
+
+
+Kukri
+
+
+Firebomb
+
+
+Dung Pie
+
+
+Alluring Skull
+
+
+Undead Hunter Charm
+
+
+Black Firebomb
+
+
+Rope Firebomb
+
+
+Lightning Urn
+
+
+Rope Black Firebomb
+
+
+Stalk Dung Pie
+
+
+Duel Charm
+
+
+Throwing Knife
+
+
+Poison Throwing Knife
+
+
+Charcoal Pine Resin
+
+
+Gold Pine Resin
+
+
+Human Pine Resin
+
+
+Carthus Rouge
+
+
+Pale Pine Resin
+
+
+Charcoal Pine Bundle
+
+
+Gold Pine Bundle
+
+
+Rotten Pine Resin
+
+
+Homeward Bone
+
+
+Coiled Sword Fragment
+
+
+Wolf's Blood Swordgrass
+
+
+Human Dregs
+
+
+Forked Pale Tongue
+
+
+Proof of a Concord Well Kept
+
+
+Prism Stone
+
+
+Binoculars
+
+
+Proof of a Concord Kept
+
+
+Pale Tongue
+
+
+Vertebra Shackle
+
+
+Sunlight Medal
+
+
+Dragon Head Stone
+
+
+Dragon Torso Stone
+
+
+Rubbish
+
+
+Dried Finger
+
+
+Commands.gg is not affiliated with any game(s) on this page.
+
+
+FearLess Cheat Engine
+
+
+Introduction 
+This document was inspired by Dark Souls II and Scholar of the First Sin Cheat Engine Guide from Atvaark.
+
+
+Feel free to visit the general Dark Souls 3 Cheat Engine Discord
+
+
+General 
+Cheat Engine 
+Tested with latest Cheat Engine 6.8.
+
+
+v1.2.4 - 04.03.2020 
+reorganized Statistics headers: Save Information, Online Information, ESC menu 
+added Menu Functions scripts by Loki and Church Guard (Opens specified menus for use anywhere in the game. Should be safe to use online) 
+replaced Auto Revive script with Loki's version 
+added Example Scripts (A few different examples on what you can do with the data in the table, as well as a LUA->ASM translation) 
+moved PhantomParam from Statistics to Helpers 
+added new ParamPatcher scripts: Dark Sun Fix, LOD class and LOD edit example script by Gáté 
+moved Misc Header from Statistics to Camera
+
+
+FAQ 
+Message: [CAUTION] INVALID GAME DATA HAS BEEN DETECTED 
+[CAUTION] INVALID GAME DATA HAS BEEN DETECTED 
+Invalid game data has been detected on your account. The use of invalid data during gameplay is a violation of the online service end user license agreement. You will be penalized if you continue playing with invalid data. Please take this opportunity to remove the invalid data from your system/account and discontinue further use.
+
+
+Every Tuesday FromSoftware scanning save games on their server. If they detect something "weird" in your last uploaded save game, you will be flagged with this message.
+
+
+In case you want to play safe online after you've received the message, there are two recommended methods.
+
+
+Make a family share account and play there. 
+Delete all your Characters, then exit the game and go to C:\Users\(Your-username)\AppData\Roaming\DarkSoulsIII, delete anything in there. Start a new game, the message will still be there but you should be safe. DON’T use Cheat Engine until the message is gone! 
+Also see information about the Offline mode.
+
+
+There is an official post from BANDAI NAMCO: Dark Souls III - Restrictions and warning messages, what do they mean?
+
+
+Message: [CAUTION] YOU HAVE BEEN PENALIZED 
+[CAUTION] YOU HAVE BEEN PENALIZED Invalid game data still remains present on your account; as such your account has now been penalized to restrict your online experience. The use of invalid data during gameplay is a violation of the online service end user license agreement.
+
+
+It's the message for the softban. If you haven't fixed your INVALID GAME DATA message until the next scan or used something that gets you instant banned, you will received this message and will be softbanned. A Softban means, that your account will be connected only to the server with other softbanned people.
+
+
+To avoid get banned after the INVALID GAME DATA message, follow steps of the next point (How to rid of the INVALID GAME DATA message).
+
+
+How to rid of the INVALID GAME DATA message 
+If you have received the [CAUTION] INVALID GAME DATA HAS BEEN DETECTED message, you can rid of it with following steps:
+
+
+Delete all your characters, because you can't get sure which Character was detected as "invalid". 
+Start a new Character and play with him online, at least once. (This will overwrite your save game on the server, so if they will scan your save game again, your save game will be clean) 
+Don't use Cheat Engine or any sort of hacks with this account anymore! (You can test cheats on other accounts with family share, if you want) 
+After some time (about 4 weeks) the message should be gone. 
+In this time you can just play on a family share account.
+
+
+Soft-ban 
+It's looks like the soft-ban in DS3 is very similar to DS2. 
+If you are soft-banned you will see the [CAUTION] YOU HAVE BEEN PENALIZED message. A Softban means, that your account will be connected only to the server with other softbanned people.
+
+
+What does and does not get you banned 
+Thanks to the reddit user /u/UnfairestFour, who has collected Softban data from last year and made a compilation of it: 
+An Updated Anti-Cheat Guide.
+
+
+Cheat Engine debugger crashing the game 
+If the game crash each time you attaching a CE debugger to it, use another one. Go to Edit->Settings->Debugger Options and switch the "Debugger method" to "Use VEH Debugger" 
+Screenshot
+
+
+Offline mode 
+If you activate the "Offline mode" in your game settings, the save game will still be synced with the server as long as you got an internet connection. 
+If you want to cheat offline, start steam in offline mode or disable your internet completely. 
+You can easily disable your network adapter. 
+Or you can completely block DarkSoulsIII.exe from using internet by adding Inbound and Outbound Firewall rules.
+
+
+VAC - Valve Anti Cheat 
+There is no VAC in Dark Souls 3!
+
+
+Tutorials 
+Weapon upgrades and infusions represented through ID 
+Quote from Zanzer:
+
+
+Here's a brief explanation about how weapon upgrades and infusions are represented in memory. I will be using decimal notation (not hex) because you will need to use math. Each weapon has a base Item ID value. For example, the Club has the ID 8000000 (decimal). For upgrades, you simply add +1 through +99. So, 8000027 would be a Club +27. Now infusions are a multiple of 100. So for every +100 you'll cycle through each infusion. For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal Club +27.
+
+
+Add the following values to the base Item ID for the specific infusion: 
++100 Heavy 
++200 Sharp 
++300 Refined 
++400 Simple 
++500 Crystal 
++600 Fire 
++700 Chaos 
++800 Lightning 
++900 Deep 
++1000 Dark 
++1100 Poison 
++1200 Blood 
++1300 Raw 
++1400 Blessed 
++1500 Hollow
+
+
+
+  
+Install Cheat Engine
+
+  
+Double-click the .CT file in order to open it.
+
+  
+Click the PC icon in Cheat Engine in order to select the game process.
+
+  
+Keep the list.
+
+  
+Activate the trainer options by checking boxes or setting values from 0 to 1
+
