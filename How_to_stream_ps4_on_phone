@@ -1,0 +1,119 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=1864717
+
+
+
+How to Stream Games From Your PlayStation 4 to Any Android Device
+
+
+Chris Hoffman is Editor-in-Chief of How-To Geek. He's written about technology for over a decade and was a PCWorld columnist for two years. Chris has written for The New York Times and Reader's Digest, been interviewed as a technology expert on TV stations like Miami's NBC 6, and had his work covered by news outlets like the BBC. Since 2011, Chris has written over 2,000 articles that have been read more than one billion times---and that's just here at How-To Geek. Read more. 
+
+
+Much like Microsoft’s Xbox-to-PC streaming, Sony’s PlayStation 4 can stream games to a few of Sony’s Xperia smartphones and tablets. However, with a small tweak, you can stream your PlayStation 4 games to nearly any Android device.
+
+
+Step One: Install the Modified Remote Play App
+
+
+Sony provides a PS4 Remote Play app in Google Play, but it’s only officially compatible with certain Xperia devices. Despite that, it can actually work on a wider variety of Android devices–Sony just wants to use it to push its own Xperia phones and tablets. XDA Developers forum user twisted89 has modified the Remote Play app so that it can run on a wider variety of devices. It also won’t check if your device is rooted or refuse to work if your connection speed isn’t slow enough like the original app.
+
+
+To get this working, you’ll first need to open Android’s Settings app and tap the “Security” category. Enable the “Unknown sources” setting. This will allow you to install the modified Remote Play app from outside of Google Play. You may want to disable this setting after you successfully install the app.
+
+
+Then, you can head to the XDA Developers forum page, find the download link for the latest version, and download it to your Android device. Open the APK file on your Android device and agree to install it.
+
+
+Step Two: Connect Your PlayStation 4 Controller
+
+
+RELATED: How to Use a Physical Game Controller with an iPhone, iPad, or Android Device You can play PS4 games using touch screen controls, but that probably won’t be ideal for most games, which are obviously designed to be played with a physical controller. You’ll probably want to connect a PS4 controller to your Android device to play games. This is actually quite easy. You can pair the controller with your phone wirelessly using standard Bluetooth pairing. Just hold down the “Share” and “PlayStation” buttons on the controller until the light bar starts flashing to put it into pairing mode.
+
+
+You could also physically connect it to your Android device directly if you have the appropriate cable. If you have a USB OTG cable adapter, you could use the standard USB cable that came with your console to plug it directly into your Android device, too
+
+
+Whether it’s connected over a wireless or wired connection, it should just work. To confirm the controller is working after you’ve connected it, go to the home screen and move the joysticks–they should allow you to select icons on your home screen and navigate Android’s interface.
+
+
+On some Android devices, the button mappings may be a bit messed up. If the controller’s buttons don’t work as you’d expect when you start playing games, you can install the SixAxis Controller app from Google Play and use it to change the button mappings. However, this requires a rooted phone. This is the only part of this process that requires root, however–and it’s not necessary on all devices. On our Nexus 7 tablet, the controller appeared to work fine when paired over Bluetooth with no controller configuration tweaks, additional apps, or rooting required.
+
+
+Step Three: Set Up Remote Play
+
+
+You can now launch Sony’s “Remote Play” app and go through the configuration process. Tap “Next” to continue and skip the controller setup screen. If you’ve already connected the controller over Bluetooth or USB, it should just work anyway. You’ll need to sign in with your PlayStation Network (PSN) account. Assuming your Android device is on the same Wi-Fi network as your PS4, it’ll find your PS4 and connect. If it can’t connect automatically, you’ll be told to visit the Remote Play Connection Settings screen on your PS4. This screen will give you a PIN and you can enter that PIN on your Android device to pair your PS4 and Android device for Remote Play.
+
+
+You can then use the controller–or the touch screen–to launch PS4 games. Your PS4 will run them and stream them to your Android smartphone or tablet.
+
+
+You should be able to play remotely after the first-time setup, even if you’re on another Wi-Fi network or on a cellular network, streaming games from your home PS4 to your device wherever you are. Of course, it won’t work quite as smoothly if it has to transfer data over the Internet. It’ll also work best if you have a speedy Wi-Fi connection.
+
+
+Sony has actually offered remote streaming for quite a while. Sony’s PlayStation Vita handheld console, PlayStation TV set-top box, and Xperia smartphones and tablets can stream games from a PlayStation 4. This trick just extends that support to almost all Android devices. Sony has announced it will officially bring this feature to Windows and Mac, and it will appear in PS4 system update version 3.50. There’s also an unofficial Windows client. However, Sony hasn’t announced it will officially offer this feature on non-Xperia Android devices or Apple’s iPhones and iPads. This unofficial support may be necessary for quite a while if you’d like to stream games to non-Xperia Android devices. Of course, even Microsoft doesn’t offer support for streaming Xbox games to smartphones–not even Windows phones. So at least it’s something.
+
+
+Chris Hoffman 
+Chris Hoffman is Editor-in-Chief of How-To Geek. He's written about technology for over a decade and was a PCWorld columnist for two years. Chris has written for The New York Times and Reader's Digest, been interviewed as a technology expert on TV stations like Miami's NBC 6, and had his work covered by news outlets like the BBC. Since 2011, Chris has written over 2,000 articles that have been read more than one billion times---and that's just here at How-To Geek. 
+Read Full Bio »
+
+
+Good Ways to Connect & Mirror iPhone to PS4
+
+
+Sony designs PlayStation 4 (PS4) as its eighth-generation home video game console and it has been well-integrated with different smartphones. When you successfully connect iPhone to PS4, you can control your PS4 with your iPhone, download PS4 games remotely, text message to your gamer friends from your iPhone and other devices. With PS4, you can extend your expectations of immersion in gaming and get closer to your game to enrich your gaming adventures.
+
+
+How to Connect and Mirror iPhone to PS4
+
+
+How to connect iPhone to PS4
+
+
+Connect your mobile devices to your PS4 system to enjoy your PlayStation experience wherever you go. Go ahead with the following steps to activate a successful connection.
+
+
+
+  
+Install the PlayStation app from the App Store on your iPhone.
+
+  
+Update your iPhone to the latest version of the operating system, which requires at least iOS 6.0 or later.
+
+  
+Make sure your PS4 and iPhone are on the same WiFi network.
+
+  
+Go to the “Setting” menu on your PS4. Choose “PlayStation App Connection Settings” > “Mobile App Connection Settings” > “Add Device”. After that, a code will appear on the screen.
+
+  
+Open the PlayStation app on your iPhone and select the PS4™ system you want to connect to.
+
+  
+Enter the code shown on your PS4 and then you can connect iPhone to PS4. After that, you have easy access to your profile, trophies, the PlayStation Store and many other features.
+
+  
+Use the “Second Screen” function and you can turn your iPhone into a controller to navigate the PS4 menu.
+
+
+
+
+Is it Possible to Mirror iPhone to PS4?
+
+
+If you search the Internet, you will find little information about how to mirror iPhone to PS4. You will find the most information on the connection between iPhone and PS4. Mirroring an iPhone to PS4 means that you can see your iPhone screen on your PS4 compatibles devices.
+
+
+In the past, there was a good app called Playmira, which enabled you to stream your PS4 games to your iOS devices. With magic Playmira, you could play your PS4 games remotely on your iPhone in a place far away from the TV. However, since PS4 and PSN are trademarks of Sony Computer Entertainment Inc, while PlayMira is not endorsed by or affiliated with Sony, PlayMira has now stopped working.
+
+
+Luckily, R-play has made it possible to mirror phone to PS4 and play PS4 games on the iPhone. The PS4 console has a remote play setting built into it. What R-Play does is hook into this system. On your iPhone, start “PS4 Remote Play” and enter the 8 digital figures which appear on your TV screen for a successful configuration. Open your R-play app and you can enjoy your PS4 games on your iPhone at will.
+
+
+Disclaimer: To be frank, the above content actually does not show you the exact way to mirror iPhone to PS4, but it indeed makes it possible to enjoy your PS4 games on your iPhone. We welcome you to provide us any possible solutions you may have on how to mirror iPhone to PS4 by making comments below.
+
+
+Alternative Way
+
+
+If you are also looking for a tool that you can use to mirror your iPhone to other screens such as PC or Mac, you can try LetsView. This free mirroring app enables you to wireless display your phone screen to PC, TV, or another mobile device with one click. What’s more, this useful tool is that it is packed with features like taking screenshots, recording screens, and adding annotations. You can click the button below to have a try.
