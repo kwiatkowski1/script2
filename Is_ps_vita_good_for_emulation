@@ -1,0 +1,358 @@
+Download Here ---> https://tinyurl.com/ycx3x5fn?id=7857741
+
+
+
+VITA / PS TV mGBA v0.8.4
+
+
+What does the m stand for? 
+It doesn’t. mGBA was originally going to be named miniGBA but as the project grew the “mini” appellation became less accurate. The name was intended to be temporary, but as the original release crept closer I couldn’t think of any better names. Other working names for mGBA included GBAc and Gerboa, but nothing else stuck.
+
+
+How do I file a bug? 
+The best way is to sign up an account on GitHub and post on the issue tracker. Please include the version you’re using (including the numbers and letters, if you’re using a development build), what OS you’re running on, and the names of games affected.
+
+
+What is the license for mGBA? 
+mGBA is licensed under the Mozilla Public License 2.0, and the code can be found on GitHub.
+
+
+
+  
+Highly accurate Game Boy Advance hardware support[1].
+
+  
+Game Boy/Game Boy Color hardware support.
+
+  
+Fast emulation. Known to run at full speed even on low end hardware, such as netbooks.
+
+  
+Qt and SDL ports for a heavy-weight and a light-weight frontend.
+
+  
+Local (same computer) link cable support.
+
+  
+Save type detection, even for flash memory size[2].
+
+  
+Support for cartridges with motion sensors and rumble (only usable with game controllers).
+
+  
+Real-time clock support, even without configuration.
+
+  
+Solar sensor support for Boktai games.
+
+  
+Game Boy Camera and Game Boy Printer support.
+
+  
+A built-in BIOS implementation, and ability to load external BIOS files.
+
+  
+Turbo/fast-forward support by holding Tab.
+
+  
+Rewind by holding Backquote.
+
+  
+Frameskip, configurable up to 10.
+
+  
+Screenshot support.
+
+  
+Cheat code support.
+
+  
+9 savestate slots. Savestates are also viewable as screenshots.
+
+  
+Video, GIF, WebP, and APNG recording.
+
+  
+e-Reader support.
+
+  
+Remappable controls for both keyboards and gamepads.
+
+  
+Loading from ZIP and 7z files.
+
+  
+IPS, UPS and BPS patch support.
+
+  
+Game debugging via a command-line interface and GDB remote support, compatible with IDA Pro.
+
+  
+Configurable emulation rewinding.
+
+  
+Support for loading and exporting GameShark and Action Replay snapshots.
+
+  
+Cores available for RetroArch/Libretro and OpenEmu.
+
+  
+Many, many smaller things.
+
+
+
+  
+MBC1
+
+  
+MBC1M
+
+  
+MBC2
+
+  
+MBC3
+
+  
+MBC3+RTC
+
+  
+MBC5
+
+  
+MBC5+Rumble
+
+  
+MBC7
+
+  
+Wisdom Tree (unlicensed)
+
+  
+Pokémon Jade/Diamond (unlicensed)
+
+
+
+  
+MBC6
+
+  
+MMM01
+
+  
+Pocket Cam
+
+  
+TAMA5
+
+  
+HuC-1
+
+  
+HuC-3
+
+
+
+  
+Networked multiplayer link cable support.
+
+  
+Dolphin/JOY bus link cable support.
+
+  
+M4A audio mixing, for higher quality sound than hardware.
+
+  
+Re-recording support for tool-assist runs.
+
+  
+Lua support for scripting.
+
+  
+A comprehensive debug suite.
+
+  
+Wireless adapter support.
+
+
+
+  
+A: X
+
+  
+B: Z
+
+  
+L: A
+
+  
+R: S
+
+  
+Start: Enter
+
+  
+Select: Backspace
+
+
+
+
+On loading a game I get a black screen or upside down image 
+Change the display driver from OpenGL to OpenGL (Force 1.x) or Software.
+
+
+mGBA has issues with my controller 
+At this time mGBA’s controller support is lackluster. Improvements are planned but if using a controller is your utmost concern you may want to use the libretro core instead.
+
+
+ I did something and now the game always runs too fas t! 
+Make sure Fast forward is unchecked under emulation and at least one of Sync to audio or Sync to video is checked. I recommend Sync to audio only.
+
+
+Gameplay or audio is stuttery 
+Try adjusting your sync settings (Sync to audio only is recommended) or your audio buffer settings. Sometimes switching the audio driver also helps.
+
+
+
+  
+CInema: A suite of automated regression tests of video output, akin to Dolphin’s fifoci
+
+  
+Input revamp: Upcoming rewrite of the input and controller mapping, meant to improve many of the fundamental issues present
+
+  
+medusa: mGBA’s upcoming DS support
+
+  
+mGUI: The UI used on all the homebrew ports
+
+  
+mGUI2: mGBA’s upcoming enhanced homebrew UI
+
+  
+mNP: mGBA’s upcoming netplay support and link cable rewrite
+
+  
+Orca: Upcoming mGBA/Dolphin integration for GBA link and GB Player
+
+  
+XQ audio: High-level mixing of the MP2k (a.k.a. M4A or Sappy) audio engine for higher quality audio
+
+
+
+
+
+  
+inih, which is copyright © 2009 – 2020 Ben Hoyt and used under a BSD 3-clause license.
+
+  
+blip-buf, which is copyright © 2003 – 2009 Shay Green and used under a Lesser GNU Public License.
+
+  
+LZMA SDK, which is public domain.
+
+  
+MurmurHash3 implementation by Austin Appleby, which is public domain.
+
+  
+getopt for MSVC, which is public domain.
+
+  
+SQLite3, which is public domain.
+
+
+
+
+
+  
+Install the vpk on your homebrew enabled PS VITA or PS TV, preferably using VitaShell.
+
+  
+For better performance, use an over-clocking tool.
+
+
+
+
+ Hacking Best PSX emulator on Vita
+
+
+Hi guys, I just want to ask about your experiences of using PSX emulators on the Vita. I've tried Retroarch on Switch but there are crackling sounds. I cant enjoy Suikoden 2 at all. I've decided to try it on my Vita however I don't know which emu is the best. Thanks in advance.
+
+
+PS: I've read a similar post suggesting Adrenaline but the thread is already 2 years old.
+
+
+ Flame 
+
+
+Me > You
+
+
+Adrenaline is the best. Adrenaline is PSP emu for PSP and PS1 games. made by Sony for PS1 games. just get the latest Adrenaline and you are good to go.
+
+
+Adrenaline is by the scene legend The Flow
+
+
+RetroArch is improving always. but i would recommend Adrenaline still.
+
+
+AshenWolf
+
+
+Well-Known Member
+
+
+Adrenaline is the best. Adrenaline is PSP emu for PSP and PS1 games. made by Sony for PS1 games. just get the latest Adrenaline and you are good to go.
+
+
+Adrenaline is by the scene legend The Flow
+
+
+RetroArch is improving always. but i would recommend Adrenaline still.
+
+
+DocKlokMan
+
+
+Plugin Dev
+
+
+Hi guys, I just want to ask about your experiences of using PSX emulators on the Vita. I've tried Retroarch on Switch but there are crackling sounds. I cant enjoy Suikoden 2 at all. I've decided to try it on my Vita however I don't know which emu is the best. Thanks in advance.
+
+
+PS: I've read a similar post suggesting Adrenaline but the thread is already 2 years old.
+
+
+Yo, another Suikoden II fan! I would suggest getting the official PSN release of Suikoden II (eBoot) and not a converted PSX game, it fixes a glitch that can happen during the fight with the mist monster boss in the mountain pass early in the game.
+
+
+AshenWolf
+
+
+Well-Known Member
+
+
+Not really a fan yet. I mean I just started playing like an hour ago. lol. Thanks for the advice!
+
+
+Yo, another Suikoden II fan! I would suggest getting the official PSN release of Suikoden II (eBoot) and not a converted PSX game, it fixes a glitch that can happen during the fight with the mist monster boss in the mountain pass early in the game.
+
+
+Which one's better though? The one released by Sony in PSN or this one? https://github.com/pyriell/gs2-bugfixes
+
+
+DocKlokMan
+
+
+Plugin Dev
+
+
+Not really a fan yet. I mean I just started playing like an hour ago. lol. Thanks for the advice!
+
+
+ 
+Which one's better though? The one released by Sony in PSN or this one? https://github.com/pyriell/gs2-bugfixes 
+
+
+Damn, I never knew about this patch. As for which is better, obviously the patched version seems best, although certain guides online that exploit these glitches may no longer work. As for compatibility, the mist monster issue was some sort of compatibility issue with the PSX emulator the PSP/Adrenaline runs. The PSN release was fixed for this issue, something this patch doesn't do. There have been updates to the POPs emulator though since then, so it may not be an issue. The old way of getting around it was exporting the save before the fight, doing the fight in another emulator, then saving and re-importing the save. I guess you could also temporarily swap over to the official PSN release for just that bods fight then swap back. I'd say use the bug fixed version and simply see if you have any issues. I know I'll be trying it out.
